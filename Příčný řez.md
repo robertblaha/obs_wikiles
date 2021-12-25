@@ -1,0 +1,1 @@
+Řez svislé roviny kolmé na osu stavby s terénem.

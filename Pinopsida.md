@@ -1,0 +1,1 @@
+třída jehličnany

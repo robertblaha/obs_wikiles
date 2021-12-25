@@ -1,0 +1,1 @@
+Obraz řezu svislé roviny proložené podélnou osou liniového objektu stavby s terénem.

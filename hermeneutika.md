@@ -1,0 +1,1 @@
+**Hermeneutika** je filologická a filosofická nauka o metodách správného chápání a výkladu textů, zejména náboženských, právních a filosofických.

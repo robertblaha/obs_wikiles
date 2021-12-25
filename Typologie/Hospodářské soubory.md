@@ -1,0 +1,1 @@
+![](https://ldf.mendelu.cz/uzpl/pestovani_v_heslech/images/kapitoly/typol_sys_hs.jpg)

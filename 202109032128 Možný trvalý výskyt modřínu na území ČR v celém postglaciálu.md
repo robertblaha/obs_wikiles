@@ -1,0 +1,2 @@
+Modřín opadavý (*Larix decidua*) možná není v ČR nepůvodní druh, jak je obvykle uváděno. Území mezi mezi "domovskými" Alpami a Jeseníky (západní Karpaty) není tak velké, aby nemohlo být osídleno modřínem v celém postglaciálu. Předkládaná hypotéza naznačuje, že chybějící důkazy mohou být způsobeny tím, že šišky se brzy rozpadají, v mokřadech, kdy by byly lépe zachovány, se nevyskytuje, dřevo je mikroskopicky velmi podobné smrku a pylová zrna nemají žádné charakteristické znaky, takže je obtížné je identifikovat.
+[[@Pokorný2021LP5a]]

@@ -1,0 +1,1 @@
+Označení traktorů Zetor nese informace o vybavení např. Zetor 7245 - 4 v čísle znamená 4 hnaná kola.

@@ -1,0 +1,4 @@
+[[Litozem]]
+[[Ranker]]
+[[Rendzina]]
+[[Pararendzina]]

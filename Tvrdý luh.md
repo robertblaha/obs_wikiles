@@ -1,0 +1,2 @@
+Tvrdý luh je typ lužního lesa, kde **dominují stromy s tvrdým dřevem**, hlavně **dub letní, jasany či jilmy**. 
+Jedná se o pravidelně či epizodicky zaplavovaný les, který je méně ovlivněný proudem řek a záplavová voda zde stagnuje kratší čas než v případě tzv. [[Měkký luh|měkkých luhů]] a hladina spodní vody je více než 1 m pod povrchem.

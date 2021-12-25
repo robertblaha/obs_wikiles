@@ -1,0 +1,1 @@
+POKORNÝ, Petr a Vojtěch ABRAHAM, 2021. Skrytější než jehla v kupce sena: Co víme o postglaciálním výskytu modřínu v ČR. _Lesnická práce_. **100**(5), 38–41. ISSN 0322-9254.

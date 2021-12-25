@@ -1,0 +1,2 @@
+Měkký luh je typ nížinného lužního lesa, který je silně ovlivněn proudem řek a pravidelnými záplavami, přičemž zde **voda stagnuje po delší dobu** než v případě [[Tvrdý luh|tvrdých luhů]]. Hlavní dominanty s **měkkým dřevem- vrby a topoly.**
+Půdy, na kterých rostou, jsou zpravidla těžší fluvizemě dobře zásobené živinami, nevysychavé, ovlivněné **vysokou hladinou spodní vody**.

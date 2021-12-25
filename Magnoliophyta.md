@@ -1,0 +1,1 @@
+oddělení rostliny krytosemenné

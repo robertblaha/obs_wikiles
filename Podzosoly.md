@@ -1,0 +1,3 @@
+
+[[Kryptopodzol]]
+[[Podzol]]

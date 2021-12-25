@@ -1,0 +1,417 @@
+# Legislativní rámec a vymezení pojmů
+- Pojmy
+	- koruna lesní cesty
+		- povrchová část LC složená z jízdního pruhu a krajnic
+	- volná šířka LC
+		- nejmenší kolmá vzdálenost mezi vnitřními líci překážet o výšce přes 20 cm
+	- lesní sklad
+		- plocha dlouhodobě určená pro druhování, skladování a nakládání dříví
+	- skládka
+		- stavebně neupravená plocha určená pro druhování, skladování a nakládání dříví
+	- soustřeďování dříví
+		- veškerý transport dříví od pařezu na odvozní místo (lesní sklad, skládka)
+	- přibližování dříví
+		- transport po 4L s vlečením po půdním povrchu
+	- vyvážení dříví
+		- transport po 4L, náklad zcela nebo částečně naložen
+	- vývozní místo (VM)
+		- bod na 4L, kde se mění vyklizování/vynášení na přibližování/vyvážení
+	- odvozní místo (OM)
+		- lesní sklad nebo skládka
+- Základní právní předpisy
+	- Zákon č. 13/1997 Sb. o pozemních komunikacích (ZPK)
+	- Zákon č. 289/1995 Sb. lesní zákon (LSN)
+	- Vyhláška č. 239/2017 Sb. technické požadavky pro stavby pro plnění funkcí lesa
+	- ČSN 73 6108 Lesní cestní síť 2018 (ČSN)
+- Základní členění komunikací dle zákona o pozemních komunikacích
+	- (zákon č. 13/1997 Sb.)
+	- Dálnice
+	- Silnice I. - III. třídy
+	- Místní komunikace
+	- Účelová komunikace
+		- Účel
+			- spojení nemovitostí (pro potřeby vlastníků)
+			- spojení nemovitostí s ostatními komunikacemi
+			- obhospodařování zemědělských a **lesních pozemků**
+		- Přístupnost
+			- veřejné - institut obecného užívání (pokud správní úřad s PČR neupraví jinak - na žádost vlastníka)
+			- neveřejné
+- Definice lesní cesty ve vztahu ZPK a LS
+	- Lesní cesta je veřejně přístupná účelová komunikace
+		- dle vyhl. 239/2017 umožňuje bezpečný celoroční nebo sezonní provoz
+	- LZ zakazuje vjezd a stání mot. vozidel (vyjma výjimek vlastníka a hospodaření)
+	- LZ zakazuje v lese jízdu na kole, koních, saních, lyžích mimo lesní cesty
+
+# Lesní cestní síť
+- Rozdělení lesních cest dle ČSN 73 6108
+	- Lesní cesty
+		- Lesní cesta pro celoroční provoz (1L)
+			- nejmenší šířka jízdního pruhu 3m, nejmenší volná šířka 4m
+			- vždy vozovka
+			- vždy účinné a technicky účelné odvodnění
+			- vždy výhybny
+		- Lesní cesta pro sezónní provoz (2L)
+			- nejmenší šířka jízdního pruhu 3m, nejmenší volná šířka 4m
+			- vozovka nebo provozní zpevnění
+			- vždy účinné a technicky účelné odvodnění
+			- vždy výhybny
+	- Ostatní trasy
+		- Lesní svážnice (3L)
+			- nejmenší volná šířka 3m
+			- vozovka ani výhybny se nenavrhují
+			- může mít provozní zpevnění
+			- nejvyšší podélný sklon záleží na morfologii a kvalitě odvodnění
+				- nesoudržné zeminy max. 10 %
+				- soudržné zeminy max. 8 %
+				- zpevněné  s podélným a příčným odvodněním až 16 %
+		- Technologická linka (4L)
+			- zemní práce jen výjimečně
+			- minimální šířka 2 m
+			- sklon dle podmínek
+- Doporučené návrhové kategorie lesních cest (ČSN 73 6108)
+	- 1L: 4,5/30; 4,5/20; 4,0/30; 4,0/20
+	- 2L: 4,5/30; 4,5/20; 4,0/30; 4,0/20
+	- návrh. rychl. 30 jen pro stmelený kryt
+- Návrhové prvky lesních cest a jejich parametry
+	- návrhová rychlost LC
+		- stmelený kryt 30 km/h
+		- nestmelený kryt 20 km/h
+		- obtížné podmínky a svážnice 15 km/h
+	- směrové oblouky LC
+		- prosté kružnice
+		- nejmenší oblouk
+			- pro návrhovou rychlost 30 km/h - 25 m
+			- pro návrhovou rychlost < 30 km/h - 15 m
+	- příčný sklon LC
+		- stmelený kryt 3 - 6 %
+		- nestmelený kryt 3,5 - 6 %
+	- maximální podélný sklon LC
+		- nové zpevněné cesty
+			- návrhová rychlost 30 km/h max. 12 %
+			- návrhová rychlost 20 km/h max. 14 %
+			- obtížné návrhové podmínky  - až 16 % (krátké úseky)
+		- nezpevněné cesty
+			- soudržné zeminy 10 %
+			- nesoudržné zeminy 8 %
+			- pro větší sklony úsek zpevnit a odvodnit
+	- minimální podélný sklon LC
+		- je třeba odvodnit jízdní pás
+		- doporučení
+			- stmelený kryt min. 0,5 %
+			- nestmelený kryt min. 3 %
+	- optimální podélný sklon LC
+		- bezeškodný odtok povrchové vody
+		- 5 - 7 %
+- Rozměry směrodatného vozidla
+	- délka 21 m
+	- šířka 2,55 m
+	- výška 4,1
+	- max. zatížení nápravy 100 kN
+- Funkce lesní cestní sítě
+	- zpřístupnění porostního nitra (omezovat 3L)
+	- technologická
+	- dopravní spojnice
+	- orientační
+
+# Odvodňovací objekty
+- základní funkce odvodnění cesty
+	- bezeškodné odvedení povrchových i podzemních vod mimo těleso cesty
+		- ochrana proti erozi (povrchová voda)
+		- ochrana proti podmáčení (podzemní voda)
+	- příčné převedení vodních toků přes cestu
+		- obvykle pod cestou - propustek, most
+		- případně nad cestou - brod (jen 2L)
+	- návrh na Q20 (v odůvodněných případech na vyšší)
+- základní rozdělení odvodňovacích objektů a funkce
+	- příkopy a rigoly
+		- zachycení a vedení, převážně povrchové, vody podél tělesa cesty
+	- svodnice
+		- příční svedení vody z koruny cesty
+	- drenáže a trativody
+		- odvod podzemní vody mimo těleso cesty (případně snížení její hladiny)
+	- propustky a mosty
+		- příčné svedení vodotečí (stálých, dočasných) pod tělesem cesty
+- příkop
+	- otevřené odvodňovací zařízení vedené v podélném směru komunikace
+		- lichoběžníkový - hydraulicky účinější
+		- trojúhelníkový - menší průtočný profil
+		- umístění na návodní straně svahu (na rovině po obou stranách)
+- minimální hloubky příkopu
+	- lichoběžníkový
+		- zpevněné cesty - min. 20 cm pod úroveň pláně
+		- nezpevněné cesty - min. 30 cm
+	- trojúhelníkový
+		- zpevněné cesty - min. 30 cm pod úroveň pláně
+		- nezpevněné cesty - min. 40 cm
+- doporučený tvar trojúhelníkového příkopu
+	- vnitřní svah 1 : 1,5, lépe 1 : 2
+	- vnější svah min. 1 : 1
+- doporučený podélný sklon příkopů
+	- 0,5 - 5 %
+	- nad 5% zpevnit
+- rigol
+	- podélný odvodňovací objekt, žlab, nižší hloubky, než příkop
+	- neodvodňuje podloží
+	- většinou opevněný
+	- menší průtočný profil
+- svodnice
+	- příčný odvodňovací objekt
+	- odvedení povrchové vody z koruny do příkopu nebo na násypová svah
+	- zmírnění účinků eroze
+		- zkrácení dráhy stékající vody
+		- omezení průtočného množství
+	- navrhují se při podélném sklonu nad 6 %, pokud není vozovka se ztmeleným krytem
+	- materiál a konstrukce
+		- dřevěné
+			- vždy se dnem
+		- kovové
+		- kynetová
+		- speciální varianta - otevřený žlab s průběžnou mříží (horská vpust)
+			- vhodné před napojením cesty při větších podélných sklonech
+	- úhel křížení cca 30°
+	- nutná správná délka a instalace
+	- pravidelná údržba (zanášení)
+- Doporučená vzdálenost svodnic
+	- doporučení 305 / podéný sklon v %
+	- konkrétní hodnoty v ČSN 73 6108
+- Drenáž, trativod
+	- kryté odvodňovací zařízení snižující hladinu podzmení vody
+	- podélná (souběžně s cestou)
+		- vždy mimo korunu cesty (aby při údržbě nebylo nutné do ní zasahovat)
+			- pod krajnicí
+			- pod příkopem/rigolem
+	- příčná
+		- zachycení, odvodnění a převedení lokálních pramenů pod vozovkou
+	- dle materiálu
+		- kuláčové
+		- haťové
+		- štěrkopískové
+		- kamenné
+		- trubkové
+	- konstrukce drenáže
+		- hrubé drcené kamenivo 
+		- možno doplněné perforovanými drenážními trubkami 
+			- minimální světlost min. 80 mm
+			- uložené na dno rýhy s obsypem z drobného drceného kamene
+			- minimální sklon 0,5 %
+		- svod vody
+			- z podélné drenáže
+				- do svahového skluzu na násypu (kamenný zához)
+				- do vtokové jímky propustku
+				- do příkopu
+			- z příčné drenáže
+				- do podélné drenáže
+				- do příkopu
+	- konstrukce trativodu
+		- rýha vyplněná kamenivem
+		- obvykle šířka 0,3 - 0,8 m; hloubka 0,6 m (výjimečně 1 m)
+- Pláňová drenáž
+	- snižuje hladinu podzemní vody v ploše pláně
+	- výplň celé hloubky rýhy hrubým drceným kamenivem
+	- plošně možno řešit štěrkopískovou podsypovou vrstvou
+	- lze řešit i geotextilií
+- Odvodňovací žebra
+	- odvodnění a stabilizace výkopových svahů
+	- cca 2 m široké úseky výkopových svahů s vyspádovanými "schody" původní zeminy zasypané stěrkopískem a vádějící vodu do podélné drenáže nebo trativodu. Hodrních cca 30 - 40 cm zemina a humus - zatravněno. 
+- stabilizace násypových svahů
+	- kamenný zához
+	- kamenný zához s rovnanou lící
+- propustky
+	- řešení
+		- betonový
+		- zdivo
+		- lomový kámen na sucho
+		- dřevěný
+	- stavební součásti
+		- potrubí
+		- lože trub
+		- čela
+			- základ
+			- dřík
+			- římsa
+		- obsyp
+		- nadnásyp
+		- vtoková jímka
+		- úprava vtoku
+		- úprava vyústění
+	- lože potrubí
+		- štěrkopískové nebo betonové lože na srovnaném zemním povrchu
+	- čela
+		- zajišťují stabilitu zemního tělesa
+		- vždy římsu
+		- čelo na vtoku, společně s vtokovou jímkou, převádí vodu z otevřeného koryta nebo příkopu do potrubí
+	- trouby
+		- betonové (přímé, hrdlové)
+		- železobetonové osmihranné
+		- železobetonové hrdlové osmihranné
+		- ocelové montované
+		- plastové 
+			- kruhová tuhost SN 10
+			- PE-HD nebo PP
+			- dvoustěnné - vlnitý povrch, hladká vnitřní stěna
+			- průměr do 80 cm
+	- konstrukční pokyny
+		- nejmenší přípustný průměr trub (vyhl. 239/2017 Sb.)
+			- 510 mm
+			- 400 mm hospodářské sjezdy do 8 m délky
+			- podélný sklon 0,5 - 8 %
+			- max. rychlost vody v žb. troubě 7 m/s
+		- na výtoku vždy opevnění spadiště
+			- otevřený lichoběžník
+			- délka dle průměru trub, minimálně 3 m
+
+	
+# Zpevňování účelových komunikací
+
+- Dělení vozovek
+	- Tuhé (vysoký modul pružnosti, nízká potřeba údržby)
+		- s cementobetonovým krytem
+		- ze silničních dílců (např. silniční panely)
+		- vibrocem (cementový makadam)
+	- Netuhé (nižší modul pružnosti, při zatížení jako vícevrstvý pružný systém, snadní opravitelnost)
+		- stmelené
+			- prolévané vrsty - penetrační makadam
+			- hutněné asfaltové vrstvy - asfaltový beton
+		- nestlemelené (klasicky jde o podkladní vrstvy, v lese lze použít na krycí vrstvu)
+			- vibrovaný štěrk
+			- mechanicky zpevněné kamenivo
+- Provozní zpevnění
+	- není to vrstva vozovky
+	- je to mechanická stabilizace zemní pláně
+- Konstrukční skladba netuhé vozovky
+	- Spodní podkladní vrstva
+		- na upravené, vyspádované a zhutněné zemní pláni
+		- funkce
+			- filtrační
+			- meliorační
+			- izolační
+			- částečně nosná
+	- Horní podkladní vrstva
+		- základ nosného systému
+		- funkce - rozklad tlaku kol vozidel do spodní podkladní vrstvy a zemní pláně
+	- Krytová vrstva
+		- uzavírá vozovku
+		- ochrana před povětrnostními vlivy
+		- přímé namáhání - nejkvalitnější materiály
+	- Obrusná vrstva
+		- funkce
+			- ochrana povrchu krytu před erozí (dopravou a srážkovou vodou)
+			- případně zvášení drsnosti
+- Konstrukce vrstev vozovek (obrusné a krytové vrstvy)
+	- **vibrocem**
+		- kostra z hrubého drceného kameniva
+		- plné prolití a zavibrování cementovou maltou
+	- **vibrovaný štěrk**
+		- kostra z kameniva frakce 32/63 (na hůře únosných až 125)
+			- rozprostření, rovnání
+			- zvlhčení, pojezd válcem bez vinrace
+		- výplňové kamenivo 0/16
+			- 30 - 35 % hmotnosti kostry
+			- zavibrování za vlhka do kostry
+			- ve výsledku musí být patrná kostra (provibrovat do mezer, nikoliv hutnit výplň v horní vrstvě!!!)
+		- nejmenší vrstva 2,5 násobek největšího zrna (tedy 200 mm)
+		- s materiálem s rovnoměrnou křivkou zrnitosti a rovnoměrným promícháním lze hutnit přímo štěrkodrť 0/63
+	- **mechanicky zpevněné kamenivo**
+		- směs nejméně dvou frakcí hrubého a drobného kameniva a vody
+		- směs předem namíchána v optimálním poměru
+		- rozprostření a hutnění je třeba provádět bezprostředně, aby nedocházelo k vysychání
+		- hutnění nejlépe vibračními tandemovými válci
+	- **penetrační makadam**
+		- v LH pouze penetrační makadam hrubý (PMH)
+		- maximální tloušťka 100 mm (hlouběji nezateče asfalt)
+		- kostra
+			- kamenivo frakce 32/63 nebo 22/63
+			- zcela zbavené nečistot
+			- rozprostření grejdrem
+			- pojezd válcem bez vibrace
+		- prolití asfaltem pomocí postřikovače
+		- neprodleně podrťovačem kamenivo frakce 8/11 nebo 8/16 a zaválcování vibračním válcem
+		- obrusná vrstva nátěrem asfaltu a drobným drceným kamenivem
+			- nejčastěji dvouvrstvý - do pojiva kamenivo 11/16 a 4/8
+	- hutněné asfaltové vrstvy - **asfaltový beton**
+		- otevřené a polootevřené asfaltový koberec, uzavřené asfaltový beton
+		- v lesnictví nejčastějí asfaltový beton zrnitosti kameniva 0/11 mm
+		- díky malé mezerovitosti velký nárok na přesné dávkování pojiva
+		- výroba v šaržových obalovnách
+		- na stavbě pokládka finišerem
+	- provozní zpevnění
+		- hrubozrnné kamenivo (32/63) nebo štěrkodrť (0/63)
+		- hutnění do aktivní vrstvy zemní pláně (cca 30 cm)
+
+# Opravy a údržba
+- vznik potřeby údržby (důvody škod)
+	- klimatické vlivy
+		- největší škody na jaře
+			- rozmrzání a rozbředání podloží
+	- opotřebení pojezdem
+	- přetěžování vozidel
+	- soustřeďování dříví i po lesních cestách
+	- technologické nedostatky a nevhodné trasování
+		- největší škody 
+			- nestmelené vozovky a zemní cesty bez příkopu nad 10 % - eroze
+			- nedostatečný podélný sklon - podmáčení, kaluže, výtluky
+	- překážky v příkopech
+	- nezabezpečené svahy
+- základní pojmy
+	- úrdžba (udržovací práce)
+		- pravidelná činnost 
+		- obnovení plného provozní stavu
+		- prevence oprav
+		- frekvence
+			- běžná - dle potřeby (minimálně kontrola po vydatnějších srážkách)
+				- odstranění nečistot
+				- stabilizace svahů
+				- úprava příčného sklonu
+				- hutnění povrchu
+				- údržba podvodňovacích objektů
+					- příkopy/rigoly
+					- propustky
+					- svodnice
+			- střední - minimálně jednou ročně
+	- opravy
+		- ostranění částečných vad, opotřebení a poškození
+			- výtluky
+			- výmrazky
+			- praskliny
+			- jiná opotřebení a poškození
+	- rekonstrukce (změna dokončených staveb)
+		- změna/zlepšení parametrů stavby
+		- zařazení do vyší třídy, změna účelu
+		- životnost dimenzována na 20 let
+- Opravy asfaltových krytů
+	- typy trhlin
+		- mrazové - z obrusných vrstev do spodních
+		- mozaikové - z nespojených asfaltových vrstev
+		- únavové
+		- na pracovních spárách
+	- trysková metoda
+	- oprava výtluků asfaltovou směsí 
+		- za tepla 
+		- za studena (menší životnost, max. 1 m2)
+- Opravy nestmelených krytů
+	- kamenná směs s menším zrnem, než hloubka 
+	- hutnění za vlhka
+	- v případě větších poškození (erozní rýhy) úprava grejdrem a hutnění
+- Rekonstrukce penetračního makadamu
+	- stávající krycí vrstva jako podklad další vrstvy penetračního makadamu
+	- stávající krycí vrstva jako podklad pro mechanicky zpevněné kamenivo
+	- rozrytí, předrcení a profilace na nestmelený kryt
+- Sanace erozních škod
+	- biologického charakteru
+	- technického charakteru
+	- kombinovaného charakteru
+- Sanační opatření
+	- Zemní kynetové svodnice
+	- Travní rohože
+	- Garnisáže a klejonáže (zejména při trvalém vyřazení úseku)
+	- Hydroosevy
+
+
+# Ostatní
+- Parametry násypových a výkopových svahů
+	- násypy
+		- do výšky 1,5 m max. 1 : 1,5
+		- nad výšku 1,5 m horních 1,5 m 1 : 1,5, níže 1 : 2
+	- výkopy 
+		- 1 : 1 až 1 : 1,5
+		- zvětralé skalní horniny 2 : 1

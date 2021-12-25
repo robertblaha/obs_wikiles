@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Přehled předmětů",
+      "path": "Přehled předmětů.md"
+    },
+    {
+      "type": "file",
+      "title": "Vstupní brána",
+      "path": "Vstupní brána.md"
+    },
+    {
+      "type": "file",
+      "title": "Wikiles a Neuracache",
+      "path": "Wikiles a Neuracache.md"
+    },
+    {
+      "type": "file",
+      "title": "Dendrologie MOC",
+      "path": "Dendrologie MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "ZOL - příprava na zkoušku",
+      "path": "mndl/zol_zk/ZOL - příprava na zkoušku.md"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+LIŠKA, Jan a Adama VÉLE, 2021. Konec přemnožení bekyně velkohlavé. _Lesnická práce_. **100**(1), 54–55. ISSN 0322-9254.

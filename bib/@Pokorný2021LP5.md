@@ -1,0 +1,1 @@
+POKORNÝ, Petr, 2021. Paleoekologie: listování přírodním archívem. _Lesnická práce_. **100**(5), 32–37. ISSN 0322-9254.

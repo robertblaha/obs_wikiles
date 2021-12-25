@@ -1,0 +1,1 @@
+[[@Pokorný2021LP5]] uvádí, že do vrcholného středověku byl u nás smrk běžný i jako dominanta nížin. Bylo to tím, že nížiny do velké míry zamokřeny. Vysoušení přišlo až s extenzivním rozvojem zemědělství.

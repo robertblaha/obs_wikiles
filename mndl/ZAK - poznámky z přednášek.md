@@ -1,0 +1,383 @@
+# Obnovy kalamitních holin (nižší a střední polohy)
+- Současný 70 tis. ha holin není v historickém pohledu ojedinělé (mniška, imise)
+## Malé holiny do 2 ha 
+- ideální pro sadbu klimaxových dřevin (zejména kryté)
+## Velké holiny (principiálně postup stejný)
+- zalesnit co nejdříve, nejlépe do 2 let (odklad o 5 let, z)
+- na počátku obnovy stanovit postup obnovy
+- výsledek limitován kvalitou užitého SAMA a pečlivostí výsadby (raději odložit obnovu, než nekvalitní SAMA)
+- Stanovištní aspekty
+	- změny klimatických poddmínek (zejména ve vazbě na expozici)
+	- zabuřenění (zejména třtina křovištní)
+	- možné zamokření
+	- rychlá ztráta humusových horizontů
+	- možná kalamitní ohrožení (klikoroh, chalcograph, zvěř, myšovití, ...)
+	- zásadní aspekty - expozice, rychlost větru, ekovalence
+- **Nutné omezení rychlosti větru**
+	- min. šířka 30 m
+		- žebra - min. šířka 30 m
+		- pásy z RRD
+	- rozestup 40m, výška 2m
+		- valy z těžebních zbytků
+		- polopropustné oploicenky
+		- zásněžky (jako u cesty)
+	- buřeň - vysoké strniště, vyžínání v pruzích
+	- využití modelace terénu - i jemné
+## Přípravné vs cílové porosty
+- bez rozdílu prvních 30 let stejnověké porosty
+- různověkost lze zajistit výsadbou OL, OS, BŘ (obmýtí 30 - 60 let)
+- zásadní jsou různověké porosty, ale rozdíl 20 let nic neřeší
+### Přípravné porosty
+- BŘ, OL, OS, JŘ, babyka, SM - mohou být i cílové
+- zakládání
+	- přirozená obnova
+		- nutný dostatečný počet kvalitních mateřských stromů
+		- plocha bez buřeně nebo skarifikace
+		- bude fungovat jen tam, kde byla už před holinou
+		- průměrná úspěčnost cca do 20 %
+		- v praxi je úspěšnější osika více, než bříza
+	- síje
+		- BŘ, OL
+		- min. 20, spíše 40 kg/ha
+		- minimální úspěšnost (max. do 12 %)
+	- umělá sadba
+		- nejryhlejší, často nejlacinější
+		- kryto. sem, prosto jednoleté (dvouleté) sazenice
+		- nikdy prostokořenné semenáčky
+		- přeměna lépe maloplošnými holosečemi než podsadbou
+		- pozn: stejně lze přeměnit jakýkoliv porost
+		- výborně se hodí OL (lépe, než BŘ)
+	- SM jako přípravní dřevina
+		- odrůstá lépe než BŘ a OL
+		- po 30ti letech již může poskytnout cenné sortimenty
+	- Problémem přípravných porostů je založení, nikoliv rekonstrukce
+### Cílové porosty
+- vždy ve vazbě na velikost a vlastnosti holiny
+- BO, MD, DB, DBZ, HB (TR, tis, břek, TP)
+- LP často schne a nevyhovují jim velké plochy
+- **JV jen do půdy s org. hmotou**, v suchu lepší mléč, než klen
+- dobře i DBČ a douglaska (první 4 roky potřebuje krytí)
+- pozor na "bukovou mánii" (monokultury) - vých. SK a HU již počínající problémy se škůdci
+- !**pozor na pečlivost sadby**!
+- TR - na živnějších půdách dřevina budoucnosti
+- DG - dřevina budoucnosti - prvních 5 let po výsadbě potřebuje krytí
+### Klimaxové dřeviny
+- přes přípravné porosty
+- vícefázovou obnovou
+- současná řadová výsadba klimaxové i přípravné dřeviny
+	- 2 řady SM, 2 řady BK (SM kryje BK)
+	- MD + JD
+	- MD + BK
+- přímo na krytých (proti větru) severních stráních
+- přímo v blízkosti (do 30) od stěny
+- pokud do přípravné dřeviny do sponu cca 8 x 8 dám dřevinu, která přinese zisk a budu se o ni starat, neprohloupím
+- cílový porost podsazený pod cílové dřeviny roste pomaleji (zástin)
+## Způsoby obnovy
+- síje
+	- jen DB a velké riziko myšovitých
+	- úspěšnost do 5 %
+- přirozené zmlazení
+	- JV, MD, JS
+	- bez buřeně, skarifikace!
+	- do 30 m od porostu
+- výsadba (velká holina, sucho)
+	- pestrá dřevinná skladba (která se ale dá vychovávat)
+	- na ploše nad 0,2 ha min. 3 druhy 
+	- smíšení
+		- skupinové (skup. max. 0,5 ha - na velkých holinách i více)
+		- řadové
+			- výsadba v řadovém sponu (do šňůry)
+			- směr napříč převládajícímu směru větru
+			- možnost využití krytu buření
+		- schematické
+	- monokultury NE ani z přípravných dřevi (zejména BR)
+	-  Doporučení pro výsadby
+		- vylepšování/doplnění
+			- JD, MD, DG, TŘ (400ks/ha)
+			- např. vyvětvovaná třešeň po 50ti letech zaplatí náklady na obnovu
+		- startovací hnojení při výsadbě
+		- preventivné opatření proti výskytu chorob a škůdců
+## Zalesňování "červené zóny"
+- umělá sadba přípravných dřevin ve sníženém počtu (+ očekávání přirozené obnovy)
+- smísení v rotách nebo pásech
+- pokud nedojde k přirozené obnově, vylepšení
+	- BK, KL, JB, JD, JV, DG
+## Buřeň
+- u celoplošných síjí a přirozeného zmlazení jen individuální ožínání
+- nepravidelné spony - velké poškození při péči
+- pravidelné spony (řadový spon)
+	- využití krycí funkce buřeně
+	- celoplošně na **vysoké strniště**
+		- kryje proti větru
+		- stimuluje růst
+		- omezuje růst dvojáků
+	- v pruzích
+		- zejména u trav
+		- ne, pokud jsou mufloni
+	- až 3 roky buřeň eliminují nadrcené těžební zbytky
+		- vrstva max. 15 cm (ve větší vrstvě přemíra fytotoxických látek)
+		- nezapracovávat do půdy (dekompozitoři spotřebují dusík - nebude pro rostliny)
+## Další ohrožení
+- myšovití
+	- i u starších výsadeb
+	- v soiučasnosti
+- mechanická stabilita
+	- žebra z dřevin s silným kořenovým systémem
+	- BK není vhodná dřevina
+	- vhodné DG, DB
+	- alespoň 10 vysázených řad
+	- proti směru převládajícího větru
+		- v ČR nejčastěji Z
+		- největší škody nečekaný směr
+		- OM doporučuje "šachovnici"
+	- zvěř
+		- přezvěření možná horší než klimatická změna
+		- obrovské škody páchá i černá zvěř
+	- požáry
+		- listnatné dřeviny + trávy - riziko požáru
+		- protipožární opatření
+			- zpřístupnění pro požární techniku
+			- pásy pro rychlou těžbu
+			- možno i zakázat vstupu do porostu do odrostení
+	- stojící souše
+		- ihned odtěžit (ve věku do 40 let rozštěpokovat)
+		- rozpad 3 - 12 let, větve i dříve
+		- po dobu rozpadu nutný zákaz vstupu do lesa?
+		- shrnutí dozéry do valů?
+
+
+# Lesní semenářství
+## Zdroje reprodukčního materiálu dřevin (RM)
+- zákon o ochr. přírody a krajiny
+	- omezení geograficky nepůvodních druhů
+		- DG, vejmutovka, DBČ
+		- nutné povolení orgánu ochr. přírody
+			- vyjádření k LHP
+- zákon o lesích
+	- obecně zákaz sběru semen a vyzvedávání semenáčků a sazenic v lesích!
+	- nutná licence
+- reprodukční mat.
+	- semenný materiál
+	- části rostlin 
+	- sadební materiál
+### Zdroje reprodukčního materiálu
+- **Zdroj semen** (nejnižší kvalita)
+	- strom (v lese, mimo les)
+	- jen semenný materiál
+- **Porost (P)**
+	- semenný materiál
+	- sadební materiál z přirozeného zmlazení
+	- Třídení porostů dle **fenotypových tříd** (Fenotypová klasifikace porostů)
+		- třízení až od určitého věku
+			- OL, TP, BR od 30 let
+			- DG, VJ, JDO od 40 let
+			- ostatní od 60 let
+		- kritéria
+			- informace o původu
+				- autochtonní - stejná PLO
+				- indigenní - stejné místo
+			- objemová produkce
+			- zdravotní stav
+			- morfologické znaky stromů
+			- jakost dřeva
+		- třídy
+			- A - hospodářsky vysoce hodnotné
+			- B - nadprůměrná hodpodářská hodnota
+			- C - průměrná hospodářská hodnota
+			- D - geneticky a hospodářsky nevhodné
+- **Semenný sad (SS)**
+	- SM, BO, MD
+		- usnadnění sběru - nižší výška
+	- LP, JV, JL, TR, HR
+		- v porostech obvykle vtroušené - nízká efektivita sběru
+	- nezakládají se pro BK, DB, JD nízká efektivita
+		- v porostu lze nasbírat snadno
+	- zakládání SS
+		- z roubovanců - zdroj mimořádně kvalitní jedinci (ortety klonů)
+		- vhodné klimatické a půdní podmníky
+		- obvyklá výměra 4 - 5 ha
+		- větší spon 10x10 a 12x12m
+			- zpočátku v meziprostotu polaření nebo vánoční stromky
+		- dostatečný počet klonů
+			- viz tabulky
+		- minimalizace sprášení z mimo sadu - v okolí by neměly růst stejné dřeviny (300 - 500m)
+		- na základě projektu
+- **Rodič rodiny (RR)**
+	- strom určený k produkci potomsktva
+	- pouze semenný materiál
+- **Klon (K)**
+	- výchozí jedinec - orteta klonu
+	- pro vegetativní reprodukci (zpravidla pro zakládání SS)
+- **Směs klonů (SK)**
+	- pro vegetativní šíření
+	- matečnice
+		- odběr řízků
+		- např. TP
+	- klonový archiv
+		- archivace ohrožených stromů
+		- pro případné šíření ohrožené populace
+### Uznávání zdrojů RM - kategorie RM
+- veškerý RM pro obnovu lesa musí být z uznaných zdrojů
+- žádá se o uznání u pověřené osoby (ÚHÚL)
+	- místní šetření (kromě nejnižší kvality)
+	- doklad o uznání
+	- evidenční číslo
+- ústřední evidence ERM (erma) - ÚHÚL
+- národní seznam zdrojů - MZe
+- **Požadavky na uznání**
+	- zdroj **identifikovaného** RM
+		- zdroj semen
+		- fenotypová třída C (nebo vyšší, ale to by byla škoda)
+	- zdroj **selektovaného** RM
+		- fenotypová třída A nebo B
+		- požadavky
+			- vzdálenosti od fenotypové třídy D
+			- mimimální plochy, min. 40 ks
+			- druhová čistota
+			- homogenita v porostu
+			- přizpůsobení stanovišti
+	- zdroj  **kvalifikovaného** RM
+		- SS, RR, ortet, K, SK
+		- požadavky
+			- viz prezenatace a sktipta
+	- zdroj testovaného RM
+		- P, SS, RR, K, SK
+		- ověření vlastností srovnávacími genetickými testy
+- **obecné zásady**
+	- na dobu určitou - obvykle v rámci LHP
+	- **SM, BO, MD** a MD eurojaponský **nelze jen z identifikovaných** zdrojů
+	- uznané jednotka
+		- evidenční číslo
+			- struktura čísla - viz podklady
+			- "putuje" se SAMA až do cílového lesa
+		- možnost sloučení
+			- neslučuje se fenotyp. třída A
+			- neslučují se zdroje kvalifikované a testované RM
+
+## Plodnost, sběr, zpracování a skladování
+- plodnost = schpnost vytvářet semena a plody
+- dřeviny - dlouhověké - nástup plodnosti později
+	- po přechodu z etapy růstové do etapy zralosti
+	- po kulminaci výskového a tloušťkového přírůstu
+	- dřívější nástup plodnosti
+		- krátkověké, rychlerostoucí
+		- u solitérů (až o 20 let)
+			- větší světelný požitek
+			- větší koruna
+			- částečně se týká i stromů v okrajích porostu
+		- u jedinců vegetativního původu
+- periodicita - semenné roky
+		- téměř každoročně
+		- cca 2 - 3 roky
+			- MD, BO, JL, JS, LP, HB
+		- 3 - 5 let
+			- SM, BK, DB
+### Sběr 
+- doba sběru
+	- ve fázi morfologické zralosti
+		- fáze zralosti
+			- mléčná - hodně tekutin
+			- vosková
+			- **morfologická** (tvrdá)
+				- nejméně vody
+				- největší tolerance ke změnám a manipulaci
+			- fyziologická - schopnost klíčit
+	- Sběr za zalena - dormantní druhy - HB, LP, JS
+		- náročné překonání dormance
+		- sběr ve voskové zralosti
+		- nelze skladovat
+		- nesmí proschnout ani se zapařit
+		- okamžitě výsev (nejpozději druhý den)
+	- opad semen po dozrání
+		- ihned
+			- sběr před dozráním a následné dozrávání
+			- aby bylo možné získat semena (aby se nerozpadla na stromě)
+		- po několika týdnech
+		- po deleší době (měsíce)
+- Způsob sběru
+	- ze stojících stromů a keřů
+		- způsoby
+			- žebříky
+			- stupačky
+				-	kovové trny
+				-	lanové
+			- horolezecký způsob
+			- vrtulníky a balony (koše), setřasače - zahraničí
+		- Způsob oddělování
+			- trhání
+			- zdrhování
+			- setřásání
+			- sklepávání a sešlehávání
+			- NESMÍ se řezat větve!
+	- z pokácených stromů
+	- spadlá na zem
+		- možno využít plachty a sítě
+
+### Zpracování
+- čištění - BK, DB
+- mlácení a čištění - HB, LP, AK, JV
+- dužnatá - mixér, lis, vyplavování přes síto, sušení, čistění - JR, TR, jabloň, hrušeň, trnka
+- rozpadavé šišky - samovolný rozpad nebo mlátička
+- nerozpadavé šišky - luštění (teplo, MD i mechanicky), odkřídlování, čištění, třídění
+### Skladování
+- vhodné navození stavu anbiózy a stárnutí - snížení teploty a obsahu vody
+- je třeba zohlednit přirozenou délku života semen
+- podmínky ovlivňující délku života
+	- vlhkost prostředí
+		- semeno mění vlhkost rovnovážně s prostředím
+		- snažíme se přiblížit spodnímu kritickému obsahu vody
+		- druhově specifické
+			- **ortodoxní** (SM, BO, MD, BR, OL)
+				- při zrání snižují obsah vody
+				- snáší vysušení až na 5-10%
+				- nepotřebují přístup vzduchu
+				- lze i v mrazu
+				- skladovatelsnosz přes 10 let
+			- subortodoxní (JD, BK, TP, VR)
+				- skladovatelnost do 10 let
+			- **rekalcitrantní**
+				- nesnižují při zrání obsah vody
+				- vysušení max, na 30 - 50%
+				- nutný přístup vzduchu
+				- nelze mrazit
+				- skladování max. 2 roky, nejlépe podzimní výsev
+				- temperátní rekalcitrantní (DB, KL, OR)
+					- do -2 
+				- tropické rekalcitrantní
+					- poškození i nízkými teplotami
+	- teplota
+		- ovlivňuje ryhclost metabolických procesů a prodýchávání zásob
+		- od 60°C denaturace bílkovin
+	- přístup vzduchu
+	- mikroorganismy
+- **skladování**
+	- dlouhodobé
+	- krátkodobé
+
+### Klíčení a překonávání dormance
+- jen základy...
+- dormance 
+	- opad v časném podzimu (aby nevyklíčil hned po opadu)
+	- primární - geneticky podmíněná
+	- sekundární - nevhodné podmínky v době klíčení (sucho, teplo) - přeležení
+- příčiny
+	- semenné obaly
+	- inhibitory růstu
+	- morfologický stav embrya
+- překonávání
+	- skarifikace - mechanické narušení semenných obalů
+	- macerace semenných obalů (H2SO4, horká voda)
+	- stratifikace - zvlhčení a teplotní režim
+		- studená stratifikace - ruší účinek inhibitorů
+		- teplo-studená stratifikace 
+			- teplo - dorůstá embryo
+			- chlad - ruší účinek inhibitorů
+	- Norma ČSN 48 1211 - na zkoušku
+
+Zakládání lesa I. Lesní semenářství
+
+**Zkouška:** 
+	- neví, jestli semenářství, ale normy pro SAMA se určitě zkouší
+	- připravit se ze skript a materiálů profesora
+	- prezentace toho obsahují málo - na zkoušku **rozhodně nestačí**
+	

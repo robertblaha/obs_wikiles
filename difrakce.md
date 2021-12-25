@@ -1,0 +1,1 @@
+Jedná se vlastně o ohyb záření na hranách překážek. Vyskytuje prakticky pouze u radiových vln.

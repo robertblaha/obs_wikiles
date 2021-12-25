@@ -1,0 +1,1 @@
+třída vyšší dvouděložné rostliny

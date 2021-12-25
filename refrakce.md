@@ -1,0 +1,1 @@
+Refrakcí rozumíme odklon či zakřivení paprsků oproti geometricky přímé spojnici koncových bodů měřené délky. Děje se v důsledku proměnlivosti prostředí a jeho fyzikálních vlastností (zejména proměnlivosti hustoty prostředí).

@@ -1,0 +1,1 @@
+**Kartografie** je nauka zabývající se mapami, jejich dějinami, tvorbou, reprodukcí, užitím a zároveň znázorněním zakřivené části zemského povrchu do roviny mapy s co nejmenším zkreslením

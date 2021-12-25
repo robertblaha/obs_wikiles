@@ -1,0 +1,1 @@
+FERKL, Vladislav, 2021. Že by i kůrovec odmítal nepasečné, více etážové hospodaření? _Lesnická práce_. **100**(1), 48–50. ISSN 0322-9254.
