@@ -4,32 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7bbe8a2384895f",
+        "id": "7175b91356950ab4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/zol_zk/Ústní ústrojí hmyzu.md",
+            "file": "mndl/GLPE/Untitled 1.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "c9ea9c9c4acc9491"
-      },
-      {
-        "id": "ea19a4804333ad4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mndl/zol_zk/Ústní ústrojí hmyzu.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "group": "c9ea9c9c4acc9491"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/zol_zk/Ústní ústrojí hmyzu.md",
+                "file": "mndl/GLPE/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/zol_zk/Ústní ústrojí hmyzu.md"
+                "file": "mndl/GLPE/Untitled 1.md"
               }
             }
           },
@@ -132,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/zol_zk/Ústní ústrojí hmyzu.md",
+                "file": "mndl/GLPE/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +130,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "ad7bbe8a2384895f",
+  "active": "7175b91356950ab4",
   "lastOpenFiles": [
-    "mndl/zol_zk/Ústní ústrojí hmyzu.md",
-    "mndl/zol_zk/ZOL - příprava na zkoušku.md",
-    "mndl/zol_zk/Bodavě-sací ústní ústrojí hmyzu.md",
-    "mndl/zol_zk/kousavě-lízací ústní ústrojí hmyzu.md",
-    "mndl/zol_zk/Lízavě-sací ústní ústrojí hmyzu.md",
-    "Dendrologie MOC.md",
-    "mndl/zol_zk/Kousavě-lízací ústní ústrojí hmyzu.md",
-    "mndl/zol_zk/Stavba těla hmyzu.md",
-    "mndl/zol_zk/Hlava hmyzu.md",
-    "mndl/zol_zk/ZOL MOC.md"
+    "mndl/GLPE/Untitled 1.md",
+    "mndl/GLPE/GLPE.md",
+    "mndl/GLPE/Untitled.md",
+    "mndl/ZAK/ZAK - poznámky z přednášek.md",
+    "mndl/ZOL/Ústní ústrojí hmyzu.md",
+    "mndl/ZOL/ZOL - příprava na zkoušku.md",
+    "mndl/ZOL/Bodavě-sací ústní ústrojí hmyzu.md",
+    "mndl/ZOL/kousavě-lízací ústní ústrojí hmyzu.md",
+    "mndl/ZOL/Lízavě-sací ústní ústrojí hmyzu.md",
+    "Dendrologie MOC.md"
   ]
 }

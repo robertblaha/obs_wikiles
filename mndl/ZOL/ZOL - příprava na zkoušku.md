@@ -7,7 +7,7 @@
 2. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
 3. [[Hlava hmyzu|Části hlavové schránky hmyzu]]; procephalon, gnathocephalon; typy hlavy podle postavení
 4. [[Ústní ústrojí hmyzu|Ústní orgány a jejich funkce]]; kousacího ústního ústrojí, typy ústního ústrojí, příklady
-5. Stavba [[Kousavě-lízací ústní ústrojí hmyzu|kousavě-lízacího úú]], [[Bodavě-sací ústní ústrojí hmyzu|bodavě-sacího úú]], – funkce, zástupci
+5. Stavba [[kousavě-lízací ústní ústrojí hmyzu|kousavě-lízacího úú]], [[Bodavě-sací ústní ústrojí hmyzu|bodavě-sacího úú]], – funkce, zástupci
 6. Stavba sacího úú, [[Lízavě-sací ústní ústrojí hmyzu|lízavě-sacího úú]] – funkce, zástupci
 7. Tykadla hmyzu, jejich typy a funkce, příklady, Johnstonův orgán
 8. Anatomie očí – složení, typy očí
@@ -33,12 +33,12 @@
 25. Charakteristika řádů [Blattodea](Blattodea.md) a [Mantodea](Mantodea.md)
 26. Charakteristika řádů [Orthoptera](Orthoptera.md), [Phasmatodea](Phasmatodea.md) a [Dermaptera](Dermaptera.md)
 27. Charakteristika řádů [Psocoptera](Psocoptera.md), “Mallophaga” a Anoplura
-28. Charakteristika řádů [Thysanoptera](Thysanoptera.md), [Cicadomorpha](/mndl/zol_zk/Cicadomorpha)
-29. Charakteristika podřádů [Heteroptera](/mndl/zol_zk/Heteroptera), [Sternorrhyncha](/mndl/zol_zk/Sternorrhyncha), [Auchenorrhyncha](/mndl/zol_zk/Auchenorrhyncha) - řád [Hemiptera](/mndl/zol_zk/Hemiptera)
+28. Charakteristika řádů [Thysanoptera](Thysanoptera.md), [Cicadomorpha](Cicadomorpha.md)
+29. Charakteristika podřádů [Heteroptera](Heteroptera.md), [Sternorrhyncha](Sternorrhyncha.md), [Auchenorrhyncha](Auchenorrhyncha.md) - řád [Hemiptera](Hemiptera.md)
 30. Význační zástupci Aphidinea a Coccinea, vývojové cykly, výskyt, bionomie, škodlivost
-31. Charakteristika řádu [Coleoptera](/mndl/zol_zk/Coleoptera) - [Adephaga](/mndl/zol_zk/Adephaga)
-32. Charakteristika řádu [Coleoptera](/mndl/zol_zk/Coleoptera) – [Polyphaga](/mndl/zol_zk/Polyphaga)
-33. Charakteristika podřádů [Coleoptera](/mndl/zol_zk/Coleoptera) – Scolytinae
+31. Charakteristika řádu [Coleoptera](Coleoptera.md) - [Adephaga](Adephaga.md)
+32. Charakteristika řádu [Coleoptera](Coleoptera.md) – [Polyphaga](Polyphaga.md)
+33. Charakteristika podřádů [Coleoptera](Coleoptera.md) – Scolytinae
 34. Význační zástupci Carabidae, Staphylinidae, Lucanidae, Geotrupidae, Scarabaeidae – výskyt, bionomie, škodlivost
 35. Význační zástupci Buprestidae, Elateridae, Cantharidae, Lampyridae, Dermestidae – výskyt, bionomie, škodlivost
 36. Význační zástupci Bostrichidae, Anobiidae, Lymexylonidae, Coccinelidae, Meloidae – výskyt, bionomie, škodlivost
@@ -48,12 +48,12 @@
 40. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
 41. Význační zástupci Scolytidae - Hylesininae – výskyt, bionomie, škodlivost
 42. Význační zástupci Scolytidae - Ipinae – výskyt, bionomie, škodlivost
-43. Charakteristika řádů [Megaloptera](Megaloptera.md), [Raphidioptera](/mndl/zol_zk/Raphidioptera), [Neuroptera](/mndl/zol_zk/Neuroptera)
-44. Charakteristika a systém řádu [Hymenoptera](/mndl/zol_zk/Hymenoptera)
-45. Charakteristika a systém podřádu [Symphyta](/mndl/zol_zk/Symphyta)
+43. Charakteristika řádů [Megaloptera](Megaloptera.md), [Raphidioptera](Raphidioptera.md), [Neuroptera](Neuroptera.md)
+44. Charakteristika a systém řádu [Hymenoptera](Hymenoptera.md)
+45. Charakteristika a systém podřádu [Symphyta](Symphyta.md)
 46. Význační zástupci čeledí Pamphilidae, Tentredinidae, Diprionidae – výskyt, bionomie, škodlivost
 47. Význační zástupci čeledí Cimbicidae, Siricidae – výskyt, bionomie, škodlivost
-48. Charakteristika a systém podřádu [Apocrita](/mndl/zol_zk/Apocrita)
+48. Charakteristika a systém podřádu [Apocrita](Apocrita.md)
 49. Význační zástupci čeledí Ichneumonidae, Braconidae, Cynipidae, Formicidae, vespidae, Apoidea – výskyt, bionomie, škodlivost
 50. Charakteristika řádů [[Mecoptera]] a [[Trichoptera]], [[Strepsiptera]]
 51. Charakteristika a systém řádu [[Lepidoptera]]
