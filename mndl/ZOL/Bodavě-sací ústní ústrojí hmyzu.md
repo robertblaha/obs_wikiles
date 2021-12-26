@@ -12,7 +12,7 @@ Skladba
 	- vytvořené z kusadel nebo čelistí
 - kanálek pro nasávání
 	- v pochvě se stiletami
-	- tvořený z čelistí (ploštice, stejnokřídlí, třásnokřídlí) nebo spodního pysku (dvojkřídlí)
+	- tvořený z čelistí (ploštice, [[Homoptera|stejnokřídlí]], třásnokřídlí) nebo spodního pysku (dvojkřídlí)
 - slinný kanálek
 	- tvořený čelistmi nebo hypopharynxem
 

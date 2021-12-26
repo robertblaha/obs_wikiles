@@ -19,7 +19,7 @@ Na hlavě dále
 Typy hlavy podle postavení/směru ústního ústrojí
 - prognátní - vpřed v ose těla (jepice, vši, někteří brouci)
 - orthognátní - dolů kolmo na osu těla (rovnokřídlí, vážky)
-- hypognátní - dozadu mezi první pár nohou (ploštice, stejnokřídlí)
+- hypognátní - dozadu mezi první pár nohou (ploštice, [[Homoptera|stejnokřídlí]])
 
 Někdy hlava plně pohyblivá => všechny polohy (šváb, ploštice)
 
