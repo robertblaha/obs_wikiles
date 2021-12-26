@@ -9,12 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/GLPE/Untitled 1.md",
+            "file": "mndl/ZAK/ZAK MOC.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "fb3f590c04e387ac"
+      },
+      {
+        "id": "f1b35068abf7bec0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mndl/ZAK/ZAK MOC.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "group": "fb3f590c04e387ac"
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/GLPE/Untitled 1.md",
+                "file": "mndl/ZAK/ZAK MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/GLPE/Untitled 1.md"
+                "file": "mndl/ZAK/ZAK MOC.md"
               }
             }
           },
@@ -116,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/GLPE/Untitled 1.md",
+                "file": "mndl/ZAK/ZAK MOC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -132,6 +147,7 @@
   },
   "active": "7175b91356950ab4",
   "lastOpenFiles": [
+    "mndl/ZAK/ZAK MOC.md",
     "mndl/GLPE/Untitled 1.md",
     "mndl/GLPE/GLPE.md",
     "mndl/GLPE/Untitled.md",
@@ -140,7 +156,6 @@
     "mndl/ZOL/ZOL - příprava na zkoušku.md",
     "mndl/ZOL/Bodavě-sací ústní ústrojí hmyzu.md",
     "mndl/ZOL/kousavě-lízací ústní ústrojí hmyzu.md",
-    "mndl/ZOL/Lízavě-sací ústní ústrojí hmyzu.md",
-    "Dendrologie MOC.md"
+    "mndl/ZOL/Lízavě-sací ústní ústrojí hmyzu.md"
   ]
 }
