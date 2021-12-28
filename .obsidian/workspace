@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Skladování rekalcitrantních semen.md",
+            "file": "mndl/ZAK/Dormance semen.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Skladování rekalcitrantních semen.md",
+            "file": "mndl/ZAK/Dormance semen.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZAK/Skladování rekalcitrantních semen.md",
+                "file": "mndl/ZAK/Dormance semen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZAK/Skladování rekalcitrantních semen.md"
+                "file": "mndl/ZAK/Dormance semen.md"
               }
             }
           },
@@ -131,8 +131,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZAK/Skladování rekalcitrantních semen.md",
-                "linksCollapsed": true,
+                "file": "mndl/ZAK/Dormance semen.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -142,20 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389,
-    "collapsed": true
+    "width": 389
   },
   "active": "f1b35068abf7bec0",
   "lastOpenFiles": [
-    "mndl/ZAK/Skladování rekalcitrantních semen.md",
-    "mndl/ZAK/ZAK MOC.md",
-    "mndl/ZAK/Skladování subortodoxních semen listnáčů.md",
-    "mndl/ZAK/Skladování subortodoxních semen jehličnanů.md",
-    "mndl/ZAK/Skladování pravých ortodoxních semen listnáčů.md",
-    "mndl/ZAK/Skladování pravých ortodoxních semen jehličnanů.md",
+    "mndl/ZAK/Dormance semen.md",
     "mndl/ZAK/ZAK - poznámky z přednášek.md",
-    "mndl/ZAK/Ortodoxní semena.md",
-    "mndl/ZAK/Rekalcitrantní semena.md",
-    "mndl/ZOL/Hlava hmyzu.md"
+    "mndl/ZAK/ZAK MOC.md",
+    "mndl/ZOL/Oči hmyzu.md",
+    "mndl/ZOL/ZOL - příprava na zkoušku.md",
+    "mndl/ZOL/Tykadla hmyzu.md",
+    "mndl/ZAK/Skladování subortodoxních semen listnáčů.md",
+    "mndl/ZAK/Skladování pravých ortodoxních semen listnáčů.md",
+    "mndl/ZAK/Skladování rekalcitrantních semen.md",
+    "mndl/ZAK/Skladování subortodoxních semen jehličnanů.md"
   ]
 }

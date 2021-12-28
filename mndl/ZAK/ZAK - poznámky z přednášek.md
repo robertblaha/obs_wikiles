@@ -332,7 +332,7 @@
 				- snáší vysušení až na 5-10%
 				- nepotřebují přístup vzduchu
 				- lze i v mrazu
-				- skladovatelsnosz přes 10 let
+				- skladovatelsnost přes 10 let
 			- subortodoxní (JD, BK, TP, VR)
 				- skladovatelnost do 10 let
 			- **rekalcitrantní**
@@ -354,7 +354,7 @@
 	- dlouhodobé
 	- krátkodobé
 
-### Klíčení a překonávání dormance
+### Klíčení a překonávání [[Dormance semen|dormance]]
 - jen základy...
 - dormance 
 	- opad v časném podzimu (aby nevyklíčil hned po opadu)

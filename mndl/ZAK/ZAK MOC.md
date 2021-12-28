@@ -14,7 +14,7 @@
 
 6. [[Skladování rekalcitrantních semen]]
 
-7. Klíční klid (dormance) semen, význam, příčiny a typy klíčního klidu
+7. [[Dormance semen|Klíční klid (dormance) semen]], význam, příčiny a typy klíčního klidu
 
 8. Překonávání dormance semen
 
