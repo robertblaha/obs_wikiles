@@ -11,8 +11,8 @@
 6. Stavba sacího úú, [[Lízavě-sací ústní ústrojí hmyzu|lízavě-sacího úú]] – funkce, zástupci
 7. [[Tykadla hmyzu]], jejich typy a funkce, příklady, Johnstonův orgán
 8. [[Oči hmyzu|Anatomie očí]] – složení, typy očí
-9. Hruď, její základní části a diferenciace, stavba hrudního článku
-10. Morfologie a funkce hmyzí končetiny, typy končetin
+9. [[Hruď hmyzu|Hruď]], její základní části a diferenciace, stavba hrudního článku
+10. Morfologie a funkce [[Nohy hmyzu|hmyzí končetiny]], typy končetin
 11. Křídlo hmyzu – vznik, části křídla, základní schéma křídelní žilnatiny
 12. Křídla - způsoby okřídlení, rozdělení křídel dle sklerotizace; spojení křídel, pohyby křídel
 13. Zadeček hmyzu – popis, článkování, přívěsky, pohlavní orgány

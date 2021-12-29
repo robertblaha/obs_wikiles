@@ -16,13 +16,13 @@
 
 7. [[Dormance semen|Klíční klid (dormance) semen]], význam, příčiny a typy klíčního klidu
 
-8. Překonávání dormance semen
+8.[[Dormance semen|klíční klid]]
 
 9. Semenářská kontrola, ukazatele jakosti osiva, postupy zjišťování
 
-10. Reprodukční materiál lesních dřevin, kategorie reprodukčního materiálu a jeho zdroje
+10. [[Reprodukční materiál lesních dřevin]], [[Kategorie reprodukčního materiálu]] a jeho [[Zdroje reprodukčního materiálu|zdroje]]
 
-11. Fenotypová klasifikace porostů lesních dřevin
+11. [[Fenotypová klasifikace porostů]] lesních dřevin
 
 12. Uznávání zdrojů reprodukčního materiálu, evidence zdrojů
 

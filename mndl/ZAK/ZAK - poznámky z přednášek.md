@@ -194,7 +194,7 @@
 		- v porostu lze nasbírat snadno
 	- zakládání SS
 		- z roubovanců - zdroj mimořádně kvalitní jedinci (ortety klonů)
-		- vhodné klimatické a půdní podmníky
+		- vhodné klimatické a půdní podmínky
 		- obvyklá výměra 4 - 5 ha
 		- větší spon 10x10 a 12x12m
 			- zpočátku v meziprostotu polaření nebo vánoční stromky

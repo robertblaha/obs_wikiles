@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Dormance semen.md",
+            "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Dormance semen.md",
+            "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZAK/Dormance semen.md",
+                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZAK/Dormance semen.md"
+                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZAK/Dormance semen.md",
+                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389
+    "width": 389,
+    "collapsed": true
   },
   "active": "f1b35068abf7bec0",
   "lastOpenFiles": [
-    "mndl/ZAK/Dormance semen.md",
+    "mndl/ZAK/Zdroje reprodukčního materiálu.md",
     "mndl/ZAK/ZAK - poznámky z přednášek.md",
+    "mndl/ZAK/kategorie reprodukčního materiálu.md",
+    "mndl/ZAK/Kategorie reprodukčního materiálu.md",
     "mndl/ZAK/ZAK MOC.md",
-    "mndl/ZOL/Oči hmyzu.md",
+    "mndl/ZAK/Kategorie reprodukčního materiálu.md",
+    "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
+    "mndl/ZAK/Fenotypová klasifikace porostů.md",
     "mndl/ZOL/ZOL - příprava na zkoušku.md",
-    "mndl/ZOL/Tykadla hmyzu.md",
-    "mndl/ZAK/Skladování subortodoxních semen listnáčů.md",
-    "mndl/ZAK/Skladování pravých ortodoxních semen listnáčů.md",
-    "mndl/ZAK/Skladování rekalcitrantních semen.md",
-    "mndl/ZAK/Skladování subortodoxních semen jehličnanů.md"
+    "mndl/ZOL/Nohy hmyzu.md"
   ]
 }
