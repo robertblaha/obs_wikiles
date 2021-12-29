@@ -1,6 +1,6 @@
 [[EŘ oglejená]] | [[Ekologické řady a edafické kategorie]]
 
-# Edafická kategorie O - oglejená kyselá
+# Edafická kategorie P - oglejená kyselá
 
 **Základní kategorie**, srážkovou vodou střídavě ovlivňované (vlhké) kyselé půdy převážně v plošších terénech (navazuje na kategorii I); pseudoglej dystrický, kambizem oglejená dystrická, luvizem oglejená dystrická, kryptopodzol oglejený, podzol oglejený
 

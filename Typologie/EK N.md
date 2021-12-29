@@ -1,6 +1,6 @@
 [[EŘ kyselá]] | [[Ekologické řady a edafické kategorie]]
 
-# Edafická kategorie K - kyselá kamenitá
+# Edafická kategorie N - kyselá kamenitá
 
 Exponovaná stanoviště na kamenitých (balvanitých) kyselých půdách; kambizem rankerová dystrická, kryptopodzol rankerový, podzol rankerový, ranker dystrický; 
 

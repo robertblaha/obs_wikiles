@@ -13,7 +13,7 @@
 8. [[Oči hmyzu|Anatomie očí]] – složení, typy očí
 9. [[Hruď hmyzu|Hruď]], její základní části a diferenciace, stavba hrudního článku
 10. Morfologie a funkce [[Nohy hmyzu|hmyzí končetiny]], typy končetin
-11. Křídlo hmyzu – vznik, části křídla, základní schéma křídelní žilnatiny
+11. [[Stavba křídla hmyzu|Křídlo hmyzu]] – vznik, části křídla, základní schéma křídelní žilnatiny
 12. Křídla - způsoby okřídlení, rozdělení křídel dle sklerotizace; spojení křídel, pohyby křídel
 13. Zadeček hmyzu – popis, článkování, přívěsky, pohlavní orgány
 14. Dýchací soustava hmyzu – stavba, funkce

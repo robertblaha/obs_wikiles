@@ -1,6 +1,6 @@
 [[EŘ živná]] | [[Ekologické řady a edafické kategorie]]
 
-# Edafická kategorie S - svěží kamenitá
+# Edafická kategorie F - svěží kamenitá
 
 Exponovaná stanoviště (včetně roklí) na kamenitých (balvanitých) středně bohatých až bohatých půdách; kambizem rankerová, kryptopodzol rankerový, ranker, (pararendzina)
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
+            "file": "Typologie/Ekologické řady a edafické kategorie.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
+            "file": "Typologie/Ekologické řady a edafické kategorie.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
+                "file": "Typologie/Ekologické řady a edafické kategorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md"
+                "file": "Typologie/Ekologické řady a edafické kategorie.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZAK/Zdroje reprodukčního materiálu.md",
+                "file": "Typologie/Ekologické řady a edafické kategorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,15 +147,15 @@
   },
   "active": "f1b35068abf7bec0",
   "lastOpenFiles": [
-    "mndl/ZAK/Zdroje reprodukčního materiálu.md",
-    "mndl/ZAK/ZAK - poznámky z přednášek.md",
-    "mndl/ZAK/kategorie reprodukčního materiálu.md",
-    "mndl/ZAK/Kategorie reprodukčního materiálu.md",
-    "mndl/ZAK/ZAK MOC.md",
-    "mndl/ZAK/Kategorie reprodukčního materiálu.md",
-    "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
-    "mndl/ZAK/Fenotypová klasifikace porostů.md",
-    "mndl/ZOL/ZOL - příprava na zkoušku.md",
-    "mndl/ZOL/Nohy hmyzu.md"
+    "Typologie/Ekologické řady a edafické kategorie.md",
+    "Typologie/EK R.md",
+    "Typologie/EŘ glejová.md",
+    "Typologie/EK T.md",
+    "Typologie/EK G.md",
+    "Typologie/EK Q.md",
+    "Typologie/EK P.md",
+    "Typologie/EK O.md",
+    "Typologie/EK V.md",
+    "Typologie/EK U.md"
   ]
 }
