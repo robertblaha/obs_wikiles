@@ -16,7 +16,7 @@
 
 7. [[Dormance semen|Klíční klid (dormance) semen]], význam, příčiny a typy klíčního klidu
 
-8.[[Dormance semen|klíční klid]]
+8. Překonávání [[Dormance semen|klíčního klidu]]
 
 9. Semenářská kontrola, ukazatele jakosti osiva, postupy zjišťování
 

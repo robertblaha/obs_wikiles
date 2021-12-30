@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typologie/Ekologické řady a edafické kategorie.md",
+            "file": "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typologie/Ekologické řady a edafické kategorie.md",
+            "file": "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md",
+                "file": "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md"
+                "file": "mndl/ZAK/Reprodukční materiál lesních dřevin.md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md",
+                "file": "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +146,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "f1b35068abf7bec0",
+  "active": "7175b91356950ab4",
   "lastOpenFiles": [
+    "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
+    "mndl/ZAK/ZAK MOC.md",
+    "mndl/ZAK/Fenotypová klasifikace porostů.md",
     "Typologie/Ekologické řady a edafické kategorie.md",
     "Typologie/EK R.md",
     "Typologie/EŘ glejová.md",
     "Typologie/EK T.md",
     "Typologie/EK G.md",
     "Typologie/EK Q.md",
-    "Typologie/EK P.md",
-    "Typologie/EK O.md",
-    "Typologie/EK V.md",
-    "Typologie/EK U.md"
+    "Typologie/EK P.md"
   ]
 }

@@ -12,9 +12,9 @@ Fenotypové klasifikaci podléhají všechny fyzicky zralé porosty, tj.
 
 **Fenotypové třídy**
 - **A - porosty hospodářsky vysoce hodnotné** - autochtonní (výjimečně neautochtonní) - vynikají množstvím a kvalitou produkce, příznivá morfologie (plnodřevnost, kruhový průměr, průběžný kmen, vyvětvování, ...)
-- **B - ostatní porosty nadrpůměrné hospodářské hodnoty** - nadprůměrná obj. produkce, příznivá morfologie, dobrý zdr. stav
+- **B - ostatní porosty nadprůměrné hospodářské hodnoty** - nadprůměrná obj. produkce, příznivá morfologie, dobrý zdr. stav
 - **C - porosty průměrné hospodářské hodnoty** - průměrná produkce a dobrý zdr. stav
-- **D - porosty geneticky a hospodářsky nevohodné** - netvárné, zhoršená produkce, zdr. stav nebo kvalita
+- **D - porosty geneticky a hospodářsky nevhodné** - netvárné, zhoršená produkce, zdr. stav nebo kvalita
 
 
 Pro zařazení se zohledňuje:
