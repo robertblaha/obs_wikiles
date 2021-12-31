@@ -3,7 +3,7 @@
 
 ## Obecná entomologie
 
-1. Hmyz – charakteristika skupiny, evoluce, druhová bohatost, teorie vzniku hmyzu
+1. Hmyz – [[Charakteristika hmyzu|charakteristika skupiny]], evoluce, druhová bohatost, teorie vzniku hmyzu
 2. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
 3. [[Hlava hmyzu|Části hlavové schránky hmyzu]]; procephalon, gnathocephalon; typy hlavy podle postavení
 4. [[Ústní ústrojí hmyzu|Ústní orgány a jejich funkce]]; kousacího ústního ústrojí, typy ústního ústrojí, příklady
@@ -18,12 +18,13 @@
 13. [[Zadeček hmyzu]] – popis, článkování, přívěsky, pohlavní orgány
 14. [[Dýchací soustava hmyzu]] – stavba, funkce
 15. [[Vnější kostra hmyzu|Anatomie vnější kostry]] – složení kutikuly, kožní žlázy, kutikulární útvary, svlékání, zbarvení hmyzu
-16. Anatomie trávicí soustavy hmyzu
-17. Oběhová soustava hmyzu
-18. typy vývoje hmyzu, typy metamorfózy
-19. Larva - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
-20. Kukla - typy kukel - zástupci;
+16. Anatomie [[Trávicí soustava hmyzu|trávicí soustavy hmyzu]]
+17. [[Oběhová soustava hmyzu]]
+18. [[Typy proměn hmyzu|Typy vývoje hmyzu]], typy metamorfózy
+19. [[Larvy hmyzu|Larva]] - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
+20. [[Kukly hmyzu|Kukla]] - typy kukel - zástupci;
  
+
  ## Biosystematika hmyzu
  
 21. Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (druh zvolí zkoušející)

@@ -1,0 +1,46 @@
+## Vajíčka
+Kryta dvojitým obalem - *chorion* nechitinového původu. Vnitřní a vnější vrstva. Často různá barevnost, tvar a povrchová skulptura (determinace)
+
+## Typy proměn
+- **hemimetabolie** - proměna nedokonalá
+	- larvy podobné dospělcům
+	- prodlužující se základy křídel
+	- postupný rozvoj gonád
+	- paleometabolie
+		- *epimetabolie* - hmyzenky, vidličnatky, chvostoskoci
+			- nedospělí jedinci se liší jen velikostí a pohlavní nevyzrálostí
+		- *prometabolie* - jepice
+			- subimago se 1x svléká
+			- larvy žijí ve vodě - tracheální žábry
+	- heterometabolie
+		- *archimetabolie* - vážky, pošvatky
+			- nymfám postupně dorůstají křídla
+			- larvy žijí ve vodě - tracheální žábry
+		- *paurometabolie* - rovnokřídlí, škvaři, kudlanky, švábi, ploštice
+			- nymfám postupně dorůstají křídla
+			- terestické druhy
+		- neometabolie
+			- *homometabolie* - mšicovití
+				- základy křídel až v posledním instaru
+			- *remetabolie* - třásnokřídlí
+				- první 2 instary bez základu křídel, přijímají potravu
+				- 2-3 instary základy křídel, ale nepřijímají potravu
+			- *parametabolie* - samci červců
+				- první 2(3) instary bez základu křídel, přijímají potravu
+				- 2 instary základy křídel, ale nepřijímají potravu
+			- *allometabolie*
+				- 4 bez křídel
+				- 1 pohyblivý 3 nepohyblivé, přijímají potravu
+			- poslední přechází v pupárium
+- **holometabolie** - proměna dokonalá - střechatky, dlouhošíjky, brouci, motýli, ...
+	- larvy nepodobné dospělcům
+	- larvy nikdy nemají zákldy křídel
+	- kukla
+	- další dělení
+		- *polymetabolie* - pakudlanky, řásnokřídlí, paraziticky žijící skupiny
+			- larvy v průběhu vývoje morfologicky odlišné
+		- *hypermetabolie* - májkovití
+			- larvy v průběhu vývoje morfologicky odlišné
+			- poslední instar nepřijímá potravu, uzavřen v kutikule předchozího instaru
+		- *kryptometabolie*
+			- celý vývoj ve vaječné skořápce - tu opouští dospělá larva a ihned se kuklí
