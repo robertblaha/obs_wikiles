@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typologie/Ekologické řady a edafické kategorie.md",
+            "file": "mndl/ZOL/ZOL - příprava na zkoušku.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typologie/Ekologické řady a edafické kategorie.md",
+            "file": "mndl/ZOL/ZOL - příprava na zkoušku.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md",
+                "file": "mndl/ZOL/ZOL - příprava na zkoušku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md"
+                "file": "mndl/ZOL/ZOL - příprava na zkoušku.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typologie/Ekologické řady a edafické kategorie.md",
+                "file": "mndl/ZOL/ZOL - příprava na zkoušku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +146,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "f1b35068abf7bec0",
+  "active": "7175b91356950ab4",
   "lastOpenFiles": [
+    "mndl/ZOL/ZOL - příprava na zkoušku.md",
+    "mndl/ZOL/Vnější kostra hmyzu.md",
+    "mndl/ZOL/Dýchací soustava hmyzu.md",
+    "mndl/ZOL/Zadeček hmyzu.md",
+    "mndl/ZOL/Stavba křídla hmyzu.md",
+    "mndl/ZAK/ZAK MOC.md",
+    "mndl/ZOL/Křídla hmyzu - vlastnosti.md",
     "Typologie/Ekologické řady a edafické kategorie.md",
     "Typologie/EŘ R - rašelinná.md",
-    "Typologie/EK R - rašelinná.md",
-    "Typologie/EŘ G - glejová (podmáčená).md",
-    "Typologie/EK T - glejová chudá.md",
-    "Typologie/EK G - glejová.md",
-    "Typologie/EŘ P - oglejená (pseudoglejová).md",
-    "Typologie/EK Q - oglejená chudá.md",
-    "Typologie/EK P - oglejená kyselá.md",
-    "Typologie/EK O - oglejená svěží (středně bohatá).md"
+    "Typologie/EK R - rašelinná.md"
   ]
 }

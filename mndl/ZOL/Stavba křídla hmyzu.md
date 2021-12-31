@@ -5,6 +5,11 @@ tags: []
 Křídla *alae* se vyvinula jako vychlípeniny pokožky a jsou tak na průřezu dvouvrstvá.
 Jsou zpevněna, vyživována a inervována žilnatinou vzdušnicového původu. Žilnatina velice variabilní, základní schéma níže.
 
+Chybí u primárně bezkřídlých (Zygentoma, Archeognatha).
+Sekundárně apterní také řády Siphonaptera a Phtiraptrea. V řadě případů apterní pouze samičky - někteří červci, partenogenetické samičky mšic, mravenci.
+Nejčastěji 2 páry. Jeden pár (přední nebo zadní) může být redukován nebo modifikován.
+Mohou chybět v důsledku přizpůsobení parazitickému způsobu života.
+
 ## Podélné žilky
 V pořadí od přední části křídla:
 - C - *costa* - krajní 
@@ -30,3 +35,5 @@ Plamka *pterostigma* - rozšířená sklerotizovaná část křídla při jeho h
 
 Křídla bezbarvá nebo barevná, na povrchu většinou sety (chrostíci osténky, motýli šupiny). Na okrajích, zejména bočních třásně tvořené šupinkami nebo chloupky - zvětšení plochy křídla (u třísnokřídlích větší plocha než samotná křídla).
 
+![[Pasted image 20211230151034.png]]
+![[Pasted image 20211230152053.png]]
