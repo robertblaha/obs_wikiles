@@ -1,5 +1,5 @@
 ---
-Aliases: [smrk]
+Aliases: [smrk, Picea sp.]
 Tags: [stromy/jehličnaté/pinaceae]
 ---
 [[Dendrologie MOC]]

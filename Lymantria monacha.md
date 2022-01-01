@@ -1,4 +1,4 @@
 #škůdce
 
 ## Živná dřevina
-[[Picea sp.]] [[Picea abies]]
+[[Picea|Picea sp.]] [[Picea abies]]

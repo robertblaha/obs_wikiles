@@ -9,27 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZOL/ZOL MOC.md",
+            "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
-        "group": "fb3f590c04e387ac"
+        "group": "26caaeb664dbbea0"
       },
       {
-        "id": "f1b35068abf7bec0",
+        "id": "2e80f028d813f494",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZOL/ZOL MOC.md",
+            "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
           }
         },
-        "group": "fb3f590c04e387ac"
+        "group": "26caaeb664dbbea0"
       }
     ],
     "direction": "vertical"
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stejnokřídlí",
+                "query": "ips typo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md",
+                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md"
+                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md",
+                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +148,15 @@
   },
   "active": "7175b91356950ab4",
   "lastOpenFiles": [
-    "mndl/ZOL/ZOL MOC.md",
-    "mndl/ZOL/Diptera.md",
-    "mndl/ZOL/Untitled.md",
-    "mndl/ZOL/Cecidomyiidae.md",
-    "mndl/ZOL/Tipulidae.md",
-    "mndl/ZOL/Lepidoptera.md",
-    "mndl/ZOL/Strepsiptera.md",
-    "mndl/ZOL/Trichoptera.md",
-    "mndl/ZOL/Mecoptera.md",
-    "mndl/ZOL/Neuroptera.md"
+    "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
+    "mndl/ZAK/ZAK MOC.md",
+    "mndl/ZAK/Semenářská rajonizace.md",
+    "mndl/ZAK/Přírodní lesní oblast.md",
+    "Legislativa v lesním hospodářství.md",
+    "Vyhláška č. 139_2004 Sb..md",
+    "Vyhláška č. 456_2021 Sb..md",
+    "Vyhláška č. 29_2004 Sb..md",
+    "mndl/ZAK/Genová základna lesních dřevin.md",
+    "mndl/ZAK/ZAK - poznámky z přednášek.md"
   ]
 }

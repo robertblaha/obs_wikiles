@@ -24,11 +24,11 @@
 
 11. [[Fenotypová klasifikace porostů]] lesních dřevin
 
-12. Uznávání zdrojů reprodukčního materiálu, evidence zdrojů
+12. [[Uznávání zdrojů reprodukčního materiálu]], evidence zdrojů
 
-13. Semenářská rajonizace a pravidla přenosu reprodukčního materiálu
+13. [[Semenářská rajonizace]] a pravidla přenosu reprodukčního materiálu
 
-14. Genové základny
+14. [[Genová základna lesních dřevin|Genové základny]]
 
 15. Rozdělení sadebního materiálu (dle technologie pěstování, dle morfol. charakteristik, dle původu)
 
@@ -102,4 +102,4 @@
 
 26. Péče o kultury – ochrana proti abiotickým vlivům
 
-27. Zajištěná kultura
+27. [[Zajištěná kultura]]

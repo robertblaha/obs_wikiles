@@ -3,12 +3,19 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#todo",
+      "color": {
+        "a": 1,
+        "rgb": 15914796
+      }
+    },
+    {
+      "query": "tag:#škůdce",
       "color": {
         "a": 1,
         "rgb": 14048350
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858214,
+  "scale": 0.25883865621816415,
   "close": true
 }
