@@ -12,29 +12,29 @@ Kryta dvojitým obalem - *chorion* nechitinového původu. Vnitřní a vnější
 		- *prometabolie* - jepice
 			- subimago se 1x svléká
 			- larvy žijí ve vodě - tracheální žábry
-	- heterometabolie
+	- heterometabolie ^f5a091
 		- *archimetabolie* - vážky, pošvatky
 			- nymfám postupně dorůstají křídla
 			- larvy žijí ve vodě - tracheální žábry
-		- *paurometabolie* - rovnokřídlí, škvaři, kudlanky, švábi, ploštice
+		- *paurometabolie* - rovnokřídlí, škvaři, kudlanky, švábi, ploštice ^fa0cf8
 			- nymfám postupně dorůstají křídla
 			- terestické druhy
-		- neometabolie
-			- *homometabolie* - mšicovití
-				- základy křídel až v posledním instaru
-			- *remetabolie* - třásnokřídlí
-				- první 2 instary bez základu křídel, přijímají potravu
-				- 2-3 instary základy křídel, ale nepřijímají potravu
-			- *parametabolie* - samci červců
-				- první 2(3) instary bez základu křídel, přijímají potravu
-				- 2 instary základy křídel, ale nepřijímají potravu
-			- *allometabolie*
-				- 4 bez křídel
-				- 1 pohyblivý 3 nepohyblivé, přijímají potravu
+	- neometabolie
+		- *homometabolie* - mšicovití
+			- základy křídel až v posledním instaru
+		- *remetabolie* - třásnokřídlí
+			- první 2 instary bez základu křídel, přijímají potravu
+			- 2-3 instary základy křídel, ale nepřijímají potravu
+		- *parametabolie* - samci červců
+			- první 2(3) instary bez základu křídel, přijímají potravu
+			- 2 instary základy křídel, ale nepřijímají potravu
+		- *allometabolie*
+			- 4 bez křídel
+			- 1 pohyblivý 3 nepohyblivé, přijímají potravu
 			- poslední přechází v pupárium
-- **holometabolie** - proměna dokonalá - střechatky, dlouhošíjky, brouci, motýli, ...
+- **holometabolie** - proměna dokonalá - střechatky, dlouhošíjky, brouci, motýli, blanokřídlí, síťokřídlí, chrostíci, ...
 	- larvy nepodobné dospělcům
-	- larvy nikdy nemají zákldy křídel
+	- larvy nikdy nemají základy křídel
 	- kukla
 	- další dělení
 		- *polymetabolie* - pakudlanky, řásnokřídlí, paraziticky žijící skupiny

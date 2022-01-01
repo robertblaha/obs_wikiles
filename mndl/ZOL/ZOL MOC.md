@@ -28,7 +28,7 @@
  ## Biosystematika hmyzu
  
 21. Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (druh zvolí zkoušející)
-22. Charakteristika tříd [Protura](Protura.md), [Collembola](Collembola.md), Campodeina a Japygina
+22. Charakteristika tříd [Protura](Protura.md), [Collembola](Collembola.md), [[Diplura|Campodeina a Japygina]]
 23. Charakteristika řádů [Zygentoma](Zygentoma.md) a [Archaeognatha](Archaeognatha.md)
 24. Charakteristika řádu [Ephemeroptera](Ephemeroptera.md), [Odonata](Odonata.md), [Plecoptera](Plecoptera.md)
 25. Charakteristika řádů [Blattodea](Blattodea.md) a [Mantodea](Mantodea.md)
@@ -39,7 +39,7 @@
 30. Význační zástupci Aphidinea a Coccinea, vývojové cykly, výskyt, bionomie, škodlivost
 31. Charakteristika řádu [Coleoptera](Coleoptera.md) - [Adephaga](Adephaga.md)
 32. Charakteristika řádu [Coleoptera](Coleoptera.md) – [Polyphaga](Polyphaga.md)
-33. Charakteristika podřádů [Coleoptera](Coleoptera.md) – Scolytinae
+33. Charakteristika podřádů [Coleoptera](Coleoptera.md) – [[Scolytinae]]
 34. Význační zástupci Carabidae, Staphylinidae, Lucanidae, Geotrupidae, Scarabaeidae – výskyt, bionomie, škodlivost
 35. Význační zástupci Buprestidae, Elateridae, Cantharidae, Lampyridae, Dermestidae – výskyt, bionomie, škodlivost
 36. Význační zástupci Bostrichidae, Anobiidae, Lymexylonidae, Coccinelidae, Meloidae – výskyt, bionomie, škodlivost
@@ -61,7 +61,7 @@
 52. Význační zástupci Cossidae, Sesiidae, Tortricidae – výskyt, bionomie, škodlivost
 53. Význační zástupci Lasiocampidae, Lymantriidae – výskyt, bionomie, škodlivost
 54. Charakteristika a systém řádu [[Diptera]] - výskyt, bionomie, škodlivost
-55. Charakteristika a systém podřádu Nematocera, podřádu Brachycera – výskyt, bionomie, škodlivost
+55. Charakteristika a systém podřádu [[Diptera#Nematocera dlouhorozí podřád|Nematocera]], podřádu [[Diptera#Brahchycera krátkorozí podřád|Brachycera]] – výskyt, bionomie, škodlivost
 
 **Doplnění Robert** - jinde nezmíněné řády z dodaných podkladů: [[Diplura]], [[Embioptera]], [[Gylloblattodea]], [[Isoptera]], [[Mantophasmatodea]], [[Siphonaptera]], [[Zoraptera]]
 

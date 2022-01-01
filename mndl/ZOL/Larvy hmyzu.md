@@ -30,7 +30,7 @@ Nedospělým stadiem je i kukla
 	- hrudní nohy i panožky na zadečkových článcích
 	- dle počtu panožek
 		- housenka  - max. 5 párů panožek (včetně pošinek) - motýli
-		- housenice - min. 6 párů nožek, hrudní obvykle mohutnější - šíropasí
+		- housenice - min. 6 párů panožek, hrudní nohy obvykle mohutnější - šíropasí
 - apodní
 	- nemají hrudní nohy ani panožky
 	- dle utváření hlavy se dále dělí na

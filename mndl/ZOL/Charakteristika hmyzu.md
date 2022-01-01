@@ -20,7 +20,7 @@ Tělo hmyzu je **bilatelárně souměrné**, článkové, rozdělené na 3 čás
 	- cerky
 
 Výkonné **příčně pruhované svaly**
-**Zevní kostra**, největší podíl **chinin**
+**Zevní kostra**, největší podíl **chitin**
 **Gangliová nervová soustava**
 **Otevřený krevní oběh** (hemolymfa - krev smísená s mízou)
 **Vzdušnicové dýchací ústrojí**
@@ -28,7 +28,7 @@ Rozmanitost velikostí, tvarů a forem
 
 ## Evoluce hmyzu
 Původ hmyzu, včetně vzniku křídel nejasný.
-Fosilní otisky z karbonu - cca 350 mil. let. Pravděpodobně už oo devonu (chvostoskoci) 380 mil. let.
+Fosilní otisky z karbonu - cca 350 mil. let. Pravděpodobně už od devonu (chvostoskoci) 380 mil. let.
 Výrazná diverzifikace v křídě - 135 - 65 mil. let
 
 ## Druhová početnost
