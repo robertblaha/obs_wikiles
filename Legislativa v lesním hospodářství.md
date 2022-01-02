@@ -5,7 +5,22 @@ tags: []
 
 # Lesní hospodářství obecně
 
-# Ochrana přídody
+## [[Zákon č. 289_1995 Sb.|Zákon č. 289/1995 Sb.]] (lesní zákon)
+**Zákon o lesích a o změně některých zákonů (lesní zákon)**
+
+## [[Vyhláška č. 298_2018 Sb.|Vyhláška č. 298/2018 Sb.]]
+**o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů**
+
+## [[Vyhláška č. 55_1999 Sb.|Vyhláška č. 55/1999 Sb.]] (škodní)
+**o způsobu výpočtu výše újmy nebo škody způsobené na lesích**
+
+## [[Nařízení vlády č. 30_2014 Sb.|Nařízení vlády č. 30/2014 Sb.]]
+**o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti**
+
+# Ochrana přírody
+
+## [[Zákon č. 114_1992 Sb.|Zákon č. 114/1992 Sb.]]
+**o ochraně přírody a krajiny**
 
 # Zakládání lesa
 
@@ -25,3 +40,6 @@ tags: []
 # Zpřístupňování lesa
 
 # Myslivost
+
+## [[Zákon č. 449_2001 Sb.|Zákon č. 449/2001 Sb.]]
+**Zákon o myslivosti**

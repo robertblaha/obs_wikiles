@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
+            "file": "Legislativa v lesním hospodářství.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
+            "file": "Legislativa v lesním hospodářství.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
+                "file": "Legislativa v lesním hospodářství.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md"
+                "file": "Legislativa v lesním hospodářství.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
+                "file": "Legislativa v lesním hospodářství.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +146,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "7175b91356950ab4",
+  "active": "2e80f028d813f494",
   "lastOpenFiles": [
-    "mndl/ZAK/Uznávání zdrojů reprodukčního materiálu.md",
-    "mndl/ZAK/ZAK MOC.md",
-    "mndl/ZAK/Semenářská rajonizace.md",
-    "mndl/ZAK/Přírodní lesní oblast.md",
     "Legislativa v lesním hospodářství.md",
-    "Vyhláška č. 139_2004 Sb..md",
-    "Vyhláška č. 456_2021 Sb..md",
-    "Vyhláška č. 29_2004 Sb..md",
-    "mndl/ZAK/Genová základna lesních dřevin.md",
-    "mndl/ZAK/ZAK - poznámky z přednášek.md"
+    "Zákon č. 114_1992 Sb..md",
+    "Legislativa v lesním hospodářství  - komplet.md",
+    "Zákon č. 449_2001 Sb..md",
+    "Zákon č. 449/2001 Sb..md",
+    "Zákon č. 289_1995 Sb..md",
+    "Nařízení vlády č. 30_2014 Sb..md",
+    "Vyhláška č. 55_1999 Sb..md",
+    "Vyhláška č. 298_2018 Sb..md",
+    "Zákon č. 149_2003 Sb..md"
   ]
 }
