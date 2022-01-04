@@ -34,6 +34,16 @@
       "type": "file",
       "title": "Legislativa v lesním hospodářství",
       "path": "Legislativa v lesním hospodářství.md"
+    },
+    {
+      "type": "file",
+      "title": "Hmyzí škůdci listnatých dřevin",
+      "path": "mndl/ZOL/Hmyzí škůdci listnatých dřevin.md"
+    },
+    {
+      "type": "file",
+      "title": "Hmyzí škůdci jehličnatých dřevin",
+      "path": "mndl/ZOL/Hmyzí škůdci jehličnatých dřevin.md"
     }
   ]
 }

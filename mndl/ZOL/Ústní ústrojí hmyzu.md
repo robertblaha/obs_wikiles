@@ -32,8 +32,9 @@ Shora kryto nepárovým horním pyskem ***labrum***
 - do ústní dutiny přechází měkkým horním patrem *epifarynx*
 
 Základná typy úú:
-- kousavě-lízací - např. brouci nebo rovnokřídlí (někdy označováno jako kousací)
-- lízavě-sací - např. motýli nebo někteří dvoukřídlí
-- bodavě-sací - např. ploštice nebo někteří dvoukřídlí
+- [[kousavě-lízací ústní ústrojí hmyzu|kousavě-lízací úú]] - např. brouci nebo rovnokřídlí (někdy označováno jako kousací)
+- [[Lízavě-sací ústní ústrojí hmyzu|lízavě sací úú]] - např. motýli nebo někteří dvoukřídlí
+- [[Bodavě-sací ústní ústrojí hmyzu|bodavě-sací úú]] - např. ploštice nebo někteří dvoukřídlí
+
 
 ![[Pasted image 20211225203714.png]] ![[Pasted image 20211225203845.png]] ![[Pasted image 20211225203746.png]]

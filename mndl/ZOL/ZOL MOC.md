@@ -3,102 +3,73 @@
 
 ## Obecná entomologie
 
-1. Hmyz – [[Charakteristika hmyzu|charakteristika skupiny]], evoluce, druhová bohatost, teorie vzniku hmyzu
-2. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
-3. [[Hlava hmyzu|Části hlavové schránky hmyzu]]; procephalon, gnathocephalon; typy hlavy podle postavení
-4. [[Ústní ústrojí hmyzu|Ústní orgány a jejich funkce]]; kousacího ústního ústrojí, typy ústního ústrojí, příklady
-5. Stavba [[kousavě-lízací ústní ústrojí hmyzu|kousavě-lízacího úú]], [[Bodavě-sací ústní ústrojí hmyzu|bodavě-sacího úú]], – funkce, zástupci
-6. Stavba sacího úú, [[Lízavě-sací ústní ústrojí hmyzu|lízavě-sacího úú]] – funkce, zástupci
-7. [[Tykadla hmyzu]], jejich typy a funkce, příklady, Johnstonův orgán
-8. [[Oči hmyzu|Anatomie očí]] – složení, typy očí
-9. [[Hruď hmyzu|Hruď]], její základní části a diferenciace, stavba hrudního článku
-10. Morfologie a funkce [[Nohy hmyzu|hmyzí končetiny]], typy končetin
-11. [[Stavba křídla hmyzu|Křídlo hmyzu]] – vznik, části křídla, základní schéma křídelní žilnatiny
-12. [[Křídla hmyzu - vlastnosti|Křídla]] - způsoby okřídlení, rozdělení křídel dle sklerotizace; spojení křídel, pohyby křídel
-13. [[Zadeček hmyzu]] – popis, článkování, přívěsky, pohlavní orgány
-14. [[Dýchací soustava hmyzu]] – stavba, funkce
-15. [[Vnější kostra hmyzu|Anatomie vnější kostry]] – složení kutikuly, kožní žlázy, kutikulární útvary, svlékání, zbarvení hmyzu
-16. Anatomie [[Trávicí soustava hmyzu|trávicí soustavy hmyzu]]
-17. [[Oběhová soustava hmyzu]]
-18. [[Typy proměn hmyzu|Typy vývoje hmyzu]], typy metamorfózy
-19. [[Larvy hmyzu|Larva]] - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
-20. [[Kukly hmyzu|Kukla]] - typy kukel - zástupci;
- 
+1. Ochrana lesa, členění činitelů, integrovaná ochrana lesa,
+2. legislativa ČR v lesním hospodářství související s ochranou lesa,
+3. aktuální problémy ochrany lesa v ČR,
+4. abiotické faktory a jejich působení,
+5. antropogenní faktory a jejich působení,
+6. biotické faktory a jejich působení
+7. Hmyz – [[Charakteristika hmyzu|charakteristika skupiny]], evoluce, druhová bohatost, teorie vzniku hmyzu
+8. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
+9. [[Hlava hmyzu|Části hlavové schránky hmyzu]]; procephalon, gnathocephalon; typy hlavy podle postavení
+10. [[Ústní ústrojí hmyzu|Ústní orgány a jejich funkce]]; ktypy ústního ústrojí, příklady
+11. [[Tykadla hmyzu]], jejich typy a funkce, příklady, Johnstonův orgán
+12. [[Oči hmyzu|Anatomie očí]] – složení, typy očí
+13. [[Hruď hmyzu|Hruď]], její základní části a diferenciace, stavba hrudního článku
+14. Morfologie a funkce [[Nohy hmyzu|hmyzí končetiny]], typy končetin
+15. [[Stavba křídla hmyzu|Křídlo hmyzu]] – vznik, části křídla, základní schéma křídelní žilnatiny; způsoby okřídlení, rozdělení křídel dle sklerotizace; spojení křídel, pohyby křídel
+16. [[Zadeček hmyzu]] – popis, článkování, přívěsky, pohlavní orgány
+17. [[Vnější kostra hmyzu|Anatomie vnější kostry]] – složení kutikuly, kožní žlázy, kutikulární útvary, svlékání, zbarvení hmyzu
+18. [[Dýchací soustava hmyzu]] – stavba, funkce
+19. Anatomie [[Trávicí soustava hmyzu|trávicí soustavy hmyzu]]
+20. [[Oběhová soustava hmyzu]]
+21. [[Typy proměn hmyzu|Typy vývoje hmyzu]], typy metamorfózy
+22. [[Larvy hmyzu|Larva]] - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
+23. [[Kukly hmyzu|Kukla]] - typy kukel - zástupci;
+24. Rozmnožování hmyzu
+25. Etologie hmyzu
+26. Trofické vztahy hmyzu
+27. Komunikace hmyzu
+
 
  ## Biosystematika hmyzu
  
-21. Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (druh zvolí zkoušející)
-22. Charakteristika tříd [Protura](Protura.md), [Collembola](Collembola.md), [[Diplura|Campodeina a Japygina]]
-23. Charakteristika řádů [Zygentoma](Zygentoma.md) a [Archaeognatha](Archaeognatha.md)
-24. Charakteristika řádu [Ephemeroptera](Ephemeroptera.md), [Odonata](Odonata.md), [Plecoptera](Plecoptera.md)
-25. Charakteristika řádů [Blattodea](Blattodea.md) a [Mantodea](Mantodea.md)
-26. Charakteristika řádů [Orthoptera](Orthoptera.md), [Phasmatodea](Phasmatodea.md) a [Dermaptera](Dermaptera.md)
-27. Charakteristika řádů [Psocoptera](Psocoptera.md), “Mallophaga” a Anoplura
-28. Charakteristika řádů [Thysanoptera](Thysanoptera.md), [Cicadomorpha](Cicadomorpha.md)
-29. Charakteristika podřádů [Heteroptera](Heteroptera.md), [Sternorrhyncha](Sternorrhyncha.md), [Auchenorrhyncha](Auchenorrhyncha.md) - řád [Hemiptera](Hemiptera.md)
-30. Význační zástupci Aphidinea a Coccinea, vývojové cykly, výskyt, bionomie, škodlivost
-31. Charakteristika řádu [Coleoptera](Coleoptera.md) - [Adephaga](Adephaga.md)
-32. Charakteristika řádu [Coleoptera](Coleoptera.md) – [Polyphaga](Polyphaga.md)
-33. Charakteristika podřádů [Coleoptera](Coleoptera.md) – [[Scolytinae]]
-34. Význační zástupci Carabidae, Staphylinidae, Lucanidae, Geotrupidae, Scarabaeidae – výskyt, bionomie, škodlivost
-35. Význační zástupci Buprestidae, Elateridae, Cantharidae, Lampyridae, Dermestidae – výskyt, bionomie, škodlivost
-36. Význační zástupci Bostrichidae, Anobiidae, Lymexylonidae, Coccinelidae, Meloidae – výskyt, bionomie, škodlivost
-37. Význační zástupci Cerambycidae – výskyt, bionomie, škodlivost
-38. Význační zástupci Curculionidae – výskyt, bionomie, škodlivost
-39. Význační zástupci Chrysomelidae, Alticidae – výskyt, bionomie, škodlivost
-40. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
-41. Význační zástupci Scolytidae - Hylesininae – výskyt, bionomie, škodlivost
-42. Význační zástupci Scolytidae - Ipinae – výskyt, bionomie, škodlivost
-43. Charakteristika řádů [Megaloptera](Megaloptera.md), [Raphidioptera](Raphidioptera.md), [Neuroptera](Neuroptera.md)
-44. Charakteristika a systém řádu [Hymenoptera](Hymenoptera.md)
-45. Charakteristika a systém podřádu [Symphyta](Symphyta.md)
-46. Význační zástupci čeledí Pamphilidae, Tentredinidae, Diprionidae – výskyt, bionomie, škodlivost
-47. Význační zástupci čeledí Cimbicidae, Siricidae – výskyt, bionomie, škodlivost
-48. Charakteristika a systém podřádu [Apocrita](Apocrita.md)
-49. Význační zástupci čeledí Ichneumonidae, Braconidae, Cynipidae, Formicidae, vespidae, Apoidea – výskyt, bionomie, škodlivost
-50. Charakteristika řádů [[Mecoptera]] a [[Trichoptera]], [[Strepsiptera]]
-51. Charakteristika a systém řádu [[Lepidoptera]]
-52. Význační zástupci Cossidae, Sesiidae, Tortricidae – výskyt, bionomie, škodlivost
-53. Význační zástupci Lasiocampidae, Lymantriidae – výskyt, bionomie, škodlivost
-54. Charakteristika a systém řádu [[Diptera]] - výskyt, bionomie, škodlivost
-55. Charakteristika a systém podřádu [[Diptera#Nematocera dlouhorozí podřád|Nematocera]], podřádu [[Diptera#Brahchycera krátkorozí podřád|Brachycera]] – výskyt, bionomie, škodlivost
-
-**Doplnění Robert** - jinde nezmíněné řády z dodaných podkladů: [[Diplura]], [[Embioptera]], [[Gylloblattodea]], [[Isoptera]], [[Mantophasmatodea]], [[Siphonaptera]], [[Zoraptera]]
-
-## Ekologie, etologie hmyzu, Ochrana lesa
-
-56. Rozmnožování hmyzu
-57. Hmyz a adaptace na prostředí
-58. Trofické vztahy hmyzu
-59. Populace (hustota, mortalita, gradace, příčiny, druhy, příklady)
-60. Paraziti a jejich ekologie
-61. Sociální hmyz
-62. Bioindikace, modelová skupina, využití v ekologii a lesním hospodářství
-63. Chování, historický vývoj etologie, fylogeneze chování
-64. Druhy adaptivního chování (stereotypní a vrozené chování, učení)
-65. Hormony u hmyzu
-66. Přizpůsobování v prostoru – pohyb, orientace, disperze, termoregulace
-67. Komunikace hmyzu
-68. Chemická komunikace – feromony, využití v ochraně lesa (lapače, lapáky)
-69. Zraková komunikace (též světélkující orgány hmyzu – funkce), mechanická komunikace
-70. Akustická komunikace
-71. Bionomie kalamitních „škůdců“ – Ips sp.;
-72. Bionomie kalamitních „škůdců“ – Cephalcia sp.;
-73. Bionomie kalamitních „škůdců“ – Lymantria monacha, Zeiraphera diniana;
-74. Bionomie kalamitních „škůdců“ – Hylobius abietis;
-75. Duby sp. – významné druhy hmyzu - výskyt, bionomie, škodlivost
-76. Buk lesní – významné druhy hmyzu - výskyt, bionomie, škodlivost
-77. Jedle bělokorá - významné druhy hmyzu - výskyt, bionomie, škodlivost
-78. Smrk ztepilý - významné druhy hmyzu - výskyt, bionomie, škodlivost
-79. Borovice, Modřín opadavý – významné druhy hmyzu - výskyt, bionomie, škodlivost
-80. Ochrana lesa, členění činitelů, integrovaná ochrana lesa
-81. Teorie stresu, odolnostní potenciál
-82. Abiotické faktory a jejich působení
-83. Biotické faktory – zvěř, hlodavci, ptáci, buřeň
-84. Biotické faktory – člověk – požáry, emise, těžba surovin….
-85. Stav lesů v ČR – skladba dřevin přírodní, současná, lesnatost, chřadnutí lesů – problémy jednotlivých druhů dřevin
-86. Významní činitelé z pohledu ochrany lesa - současný stav v ČR
-87. Legislativa v LH a Ochraně přírody – kategorie lesů, jednotky hospodaření
-88. Chráněná území v ČR – velkoplošná, maloplošná; management LH v CHÚ
-89. Aktuální problémy ochrany lesa a ochrany přírody
-90. Systém Natura 2000, vybrané druhy hmyzu – monitoring, bionomie
+Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (druh zvolí zkoušející)
+28. Charakteristika tříd [Protura](Protura.md), [Collembola](Collembola.md), [[Diplura|Campodeina a Japygina]]
+29. Charakteristika řádů [Zygentoma](Zygentoma.md) a [Archaeognatha](Archaeognatha.md)
+30. Charakteristika řádu [Ephemeroptera](Ephemeroptera.md), [Odonata](Odonata.md), [Plecoptera](Plecoptera.md)
+31. Charakteristika řádů [Blattodea](Blattodea.md) a [Mantodea](Mantodea.md)
+32. Charakteristika řádů [Orthoptera](Orthoptera.md), [Phasmatodea](Phasmatodea.md) a [Dermaptera](Dermaptera.md)
+33. Charakteristika řádů [Psocoptera](Psocoptera.md), “Mallophaga” a Anoplura
+34. Charakteristika řádů [Thysanoptera](Thysanoptera.md), [[Auchenorrhyncha]]
+35. Charakteristika podřádů [Heteroptera](Heteroptera.md), [Sternorrhyncha](Sternorrhyncha.md)
+36. Význační zástupci Aphidomorpha a Coccomorpha, vývojové cykly, výskyt, bionomie, škodlivost
+37. Charakteristika řádů [Megaloptera](Megaloptera.md), [Raphidioptera](Raphidioptera.md), [Neuroptera](Neuroptera.md)
+38. Charakteristika řádů [[Mecoptera]] a [[Trichoptera]], [[Strepsiptera]]
+39. Charakteristika a systém řádu [[Lepidoptera]]
+40. Význační zástupci [[Cossidae - zástupci|Cossidae]], [[Sesiidae - zástupci|Sesiidae]], [[Tortricidae - zástupci|Tortricidae]] – výskyt, bionomie, škodlivost
+41. Význační zástupci Lasiocampidae, Lymantriidae – výskyt, bionomie, škodlivost
+42. Charakteristika a systém řádu [[Diptera]] - výskyt, bionomie, škodlivost
+43. Charakteristika a systém řádu [Hymenoptera](Hymenoptera.md)
+44. Význační zástupci čeledí Pamphilidae, Tentredinidae, Diprionidae – výskyt, bionomie, škodlivost
+45. Význační zástupci čeledí Cimbicidae, Siricidae – výskyt, bionomie, škodlivost
+46. Význační zástupci čeledí Ichneumonidae, Braconidae, Cynipidae, Formicidae, vespidae, Apoidea – výskyt, bionomie, škodlivost
+47. Charakteristika řádu [Coleoptera](Coleoptera.md)
+48. Význační zástupci Carabidae, Staphylinidae, Lucanidae, Geotrupidae, Scarabaeidae – výskyt, bionomie, škodlivost
+49. Význační zástupci Buprestidae, Elateridae, Cantharidae, Lampyridae, Dermestidae – výskyt, bionomie, škodlivost
+50. Význační zástupci Bostrichidae, Anobiidae, Lymexylonidae, Coccinelidae, Meloidae – výskyt, bionomie, škodlivost
+51. Význační zástupci Cerambycidae – výskyt, bionomie, škodlivost
+32. Význační zástupci Chrysomelidae, Alticinae – výskyt, bionomie, škodlivost
+53. Význační zástupci Curculionidae – výskyt, bionomie, škodlivost
+54. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
+55. Bionomie kalamitních „škůdců“ – Ips sp.;
+56. Bionomie kalamitních „škůdců“ – Cephalcia sp.;
+57. Bionomie kalamitních „škůdců“ – Lymantria monacha, Zeiraphera griseana;
+58. Bionomie kalamitních „škůdců“ – Hylobius abietis;
+59. Duby sp. – významné druhy hmyzu - výskyt, bionomie, škodlivost
+60. Buk lesní – významné druhy hmyzu - výskyt, bionomie, škodlivost
+61. Jedle bělokorá - významné druhy hmyzu - výskyt, bionomie, škodlivost
+62. Smrk ztepilý - významné druhy hmyzu - výskyt, bionomie, škodlivost
+63. Borovice – významné druhy hmyzu - výskyt, bionomie, škodlivost
+64. Modřín opadavý – významné druhy hmyzu - výskyt, bionomie, škodlivost
+65. [[Hmyzí škůdci listnatých dřevin|Ostatní druhy listnatých dřevin]] – významné druhy hmyzu - výskyt, bionomie, škodlivost

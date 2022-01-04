@@ -20,10 +20,8 @@ Zakrnělé ústní ústrojí.
 Křídla spojena hřebínkem - *frenulum* - tuhé stětinky na kořeni zadního křídla.
 
 ### podřád *Monotrysia*
-Typický lízavě sací sosák, samička jen jeden pohlavní otvro na 9. článku zadečku.
-
-### podřád *Nepticuloidea*
-Nejdrobnější motýli - rozpětí 8-11 mm. Zadní křídla dlouze třásnitá. Odstále chloupkatá hlava, "oční klapky" z rozšířeného prvního článku tykadla.
+Velmi drobní až drobní motýlci. Typický lízavě sací sosák, samička jen jeden pohlavní otvor na 9. článku zadečku.
+Na křídlech mikroskopické osténky, housenky minimálně část života minují v rostlinných orgánech.
 
 ### podřád *Ditrysia*
 Bez kusadel, většinou dobře vyvinutí sosák. Samičky 2 pohlavní otvory. Na 8. zadečkovém článku k páření, na 9. ke kladení vajíček.
