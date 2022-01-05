@@ -4,14 +4,24 @@ tags: []
 ---
 
 ## Buk lesní
-
+[[Lymantriidae - zástupci#Caliteara pudibunda - stětconoš ořechový|Caliteara pudibunda]]
+([[Lymantriidae - zástupci#Euproctis chrysorrhea - bekyně zlatořitná|Euproctis chrysorrhea]])
 [[Cossidae - zástupci#Zeuzera pyrina - drvopleň hrušňový|Zeuzera pyrina]]
 
 ## Duby
-[[Tortricidae - zástupci#Tortrix viridana - obaleč dubový]]
+([[Lymantriidae - zástupci#Euproctis chrysorrhea - bekyně zlatořitná|Euproctis chrysorrhea]])
+[[Lymantriidae - zástupci#Lymantria dispar - bekyně velkohlavá|Lymantria dispar]]
+[[Tortricidae - zástupci#Tortrix viridana - obaleč dubový|Tortrix viridana]]
+
+
+
+([[Lymantriidae - zástupci#Caliteara pudibunda - stětconoš ořechový|Caliteara pudibunda]])
 
 ## Ostatní listnaté stromy
+[[Lymantriidae - zástupci#Caliteara pudibunda - stětconoš ořechový|Caliteara pudibunda]]
 [[Cossidae - zástupci#Cossus cossus - drvopleň obecný|Cosusus cossus]]
+[[Lymantriidae - zástupci#Leucoma salicis - bekyně vrbová|Leucoma salicis]] topoly
+[[Lymantriidae - zástupci#Lymantria dispar - bekyně velkohlavá|Lymantria dispar]]
 
 [[Cossidae - zástupci#Zeuzera pyrina - drvopleň hrušňový|Zeuzera pyrina]]
 

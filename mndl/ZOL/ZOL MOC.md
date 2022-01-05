@@ -48,7 +48,7 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 38. Charakteristika řádů [[Mecoptera]] a [[Trichoptera]], [[Strepsiptera]]
 39. Charakteristika a systém řádu [[Lepidoptera]]
 40. Význační zástupci [[Cossidae - zástupci|Cossidae]], [[Sesiidae - zástupci|Sesiidae]], [[Tortricidae - zástupci|Tortricidae]] – výskyt, bionomie, škodlivost
-41. Význační zástupci Lasiocampidae, Lymantriidae – výskyt, bionomie, škodlivost
+41. Význační zástupci [[Lasiocampidae - zástupci|Lasiocampidae]], [[Lymantriidae - zástupci|Lymantriidae]] – výskyt, bionomie, škodlivost
 42. Charakteristika a systém řádu [[Diptera]] - výskyt, bionomie, škodlivost
 43. Charakteristika a systém řádu [Hymenoptera](Hymenoptera.md)
 44. Význační zástupci čeledí Pamphilidae, Tentredinidae, Diprionidae – výskyt, bionomie, škodlivost
@@ -64,7 +64,7 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 54. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
 55. Bionomie kalamitních „škůdců“ – Ips sp.;
 56. Bionomie kalamitních „škůdců“ – Cephalcia sp.;
-57. Bionomie kalamitních „škůdců“ – Lymantria monacha, Zeiraphera griseana;
+57. Bionomie kalamitních „škůdců“ – [[Lymantria monacha]], [[Zeiraphera griseana]];
 58. Bionomie kalamitních „škůdců“ – Hylobius abietis;
 59. Duby sp. – významné druhy hmyzu - výskyt, bionomie, škodlivost
 60. Buk lesní – významné druhy hmyzu - výskyt, bionomie, škodlivost

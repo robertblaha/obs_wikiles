@@ -17,6 +17,12 @@ tags: []
 ## [[Nařízení vlády č. 30_2014 Sb.|Nařízení vlády č. 30/2014 Sb.]]
 **o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti**
 
+## [[Vyhláška č. 101_1996 Sb.|Vyhláška č. 101/1996 Sb.]]
+Vyhláška Ministerstva zemědělství, kterou se stanoví podrobnosti o opatřeních k **ochraně lesa** a vzor služebního odznaku a vzor průkazu lesní stráže
+
+## [[Vyhláška č. 76_2018 Sb.|Vyhláška č. 76/2018 Sb.]]
+Vyhláška, kterou se mění vyhláška Ministerstva zemědělství č. 101/1996 Sb., kterou se stanoví **podrobnosti o opatřeních k ochraně lesa** a vzor služebního odznaku a vzor průkazu lesní stráže, ve znění vyhlášky č. 236/2000 Sb.
+
 # Ochrana přírody
 
 ## [[Zákon č. 114_1992 Sb.|Zákon č. 114/1992 Sb.]]
