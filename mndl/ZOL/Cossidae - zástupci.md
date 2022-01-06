@@ -24,7 +24,7 @@ Poraněná místa nápadná výronem mízy čpící po octu. Až 200 housenek na
 
 ## Bionomie
 **Motýli** červen a červenec převážně v noci. Samičky cca 800 vajíček ponejvíce na řapíky listů a pupeny.
-**Housenky** po 2 týdnech. Nejprve mladé výhonky a listy, poté se zavrtávají. Krátce společně pod kůrou, poté jednotlivě chodbičky až 35 cm.
+**Housenky** po 2 týdnech. Nejprve mladé výhonky a listy, poté se zavrtávají. Krátce společně pod kůrou, poté jednotlivě chodbičky až 35 cm. Dvojí přezimování, 3. rok na jaře kuklení.
 
 ## Škodlivost
 Široce plyfágní fyziologicko-technický škůdce. Dřeviny každého věku - buď mladé nebo koruna. Z LV zejména JS, DB, JV, BK, jilm. Škody zejména školky, mlaziny, ovocné sady.

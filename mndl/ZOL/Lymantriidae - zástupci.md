@@ -7,7 +7,7 @@ tags: []
 ## *Caliteara pudibunda* - stětconoš ořechový 
 
 ## Bionomie
-**Motýly** přelom května a června v listnatých nebo smíšených lesích, rojení cca 2 - 3 týdny (kopulují všude), za několik dní kladení vajec v "destičkách" po 3 - 450 (prům. 160).
+**Motýli** přelom května a června v listnatých nebo smíšených lesích, rojení cca 2 - 3 týdny (kopulují všude), za několik dní kladení vajec v "destičkách" po 3 - 450 (prům. 160).
 **Housenky** za 3 týdny (v červnu) - po vylíhnutí ve skupinách (zrcátkách), následně i daleké přesuny vzduchem - dlouhá vlákna a chlupy. Při žíru na spodní straně listů (chránění před sluncem a deštěm). Žír vrcholí v září; podé v listopadu padají na zem a kulkí se. Zimují kukly.
 
 ## Škodlivost
@@ -42,7 +42,8 @@ Následuje **diapauza** - housenky až v dubnu nebo začítkem května následuj
 ## *Leucoma salicis* - bekyně vrbová
 ## Bionomie
 **Motýli** přelom června a července; max. 500 vajíček v hromádkách; přezimují housenky 2. nebo 3. instaru ve štěrbinách borky v předivu. Ve studenějších oblastech přezimují vajíčka. Kuklení v červnu.
-
+## Poškození
+Listy - děrování a skeletování.  
 ## Škodlivost
 Významný škůdce topolů (*P. alba*, *P. nigra*, *P "italicus"*), často i na vrbách, ale minimální škody.
 
@@ -52,8 +53,9 @@ Významný škůdce topolů (*P. alba*, *P. nigra*, *P "italicus"*), často i na
 ## *Euproctis chrysorrhea* - bekyně zlatořitná
 
 ## Bionomie
-**Motýli** přelom června a července; 100 - 500 vajíček na spodní straně listu; zimuje 2. - 3. instar ve společných hnízdech (až 3000 ks), zpočátku jarního žíru se do nich vracejí, poté samostatný plýtvavý žír;
-
+**Motýli** přelom června a července; 100 - 500 vajíček na spodní straně listu; zimuje 2. - 3. instar ve společných hnízdech (až 3000 ks), zpočátku jarního žíru se do nich vracejí, poté samostatný plýtvavý žír všech částí listů; kuklení od poloviny června.
+## Poškození
+plýtvavý žír všech částí listů
 ## Škodlivost
 Zejména ovocné stromy, ale napadá i DB a BK; obvykle doprovází *L. dispar*
 

@@ -14,14 +14,17 @@ tags: []
 
 ## Borovice
 [[Lasiocampidae - zástupci#Dendrolimus pini - bourovec borový|Dendrolimus pini]]
+[[Lymantria monacha]]
 
 **Mladé borovice**
 [[Tortricidae - zástupci#Rhyacionia buoliana - obaleč prýtový|Rhyacionia buoliana]]
 
 
 ## Jedle bělokorá
+[[Lymantria monacha]]
 
 ## Modřín opadavý
+[[Lymantria monacha]]
 
 ## Ostatní jehličnaté stromy
 

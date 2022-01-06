@@ -6,6 +6,7 @@ tags: []
 ## Buk lesní
 [[Lymantriidae - zástupci#Caliteara pudibunda - stětconoš ořechový|Caliteara pudibunda]]
 ([[Lymantriidae - zástupci#Euproctis chrysorrhea - bekyně zlatořitná|Euproctis chrysorrhea]])
+[[Lymantria monacha]]
 [[Cossidae - zástupci#Zeuzera pyrina - drvopleň hrušňový|Zeuzera pyrina]]
 
 ## Duby
