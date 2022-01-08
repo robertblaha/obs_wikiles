@@ -3,11 +3,11 @@
 
 ## Obecná entomologie
 
-1. Ochrana lesa, členění činitelů, integrovaná ochrana lesa,
-2. legislativa ČR v lesním hospodářství související s ochranou lesa,
+1. Ochrana lesa, členění činitelů, [[Integrovaná ochrana lesa]],
+2. [[Ochrana lesa - legislativa|legislativa ČR]] v lesním hospodářství související s ochranou lesa,
 3. aktuální problémy ochrany lesa v ČR,
-4. abiotické faktory a jejich působení,
-5. antropogenní faktory a jejich působení,
+4. [[Abiotické faktory v ochraně lesa|abiotické faktory]] a jejich působení,
+5. [[Antropogenní faktory v ochraně lesa|antropogenní faktory]] a jejich působení,
 6. biotické faktory a jejich působení
 7. Hmyz – [[Charakteristika hmyzu|charakteristika skupiny]], evoluce, druhová bohatost, teorie vzniku hmyzu
 8. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
@@ -26,9 +26,9 @@
 21. [[Typy proměn hmyzu|Typy vývoje hmyzu]], typy metamorfózy
 22. [[Larvy hmyzu|Larva]] - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
 23. [[Kukly hmyzu|Kukla]] - typy kukel - zástupci;
-24. Rozmnožování hmyzu
+24. [[Rozmnožování hmyzu]]
 25. Etologie hmyzu
-26. Trofické vztahy hmyzu
+26. [[Trofické vztahy hmyzu]]
 27. Komunikace hmyzu
 
 
@@ -62,10 +62,10 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 32. Význační zástupci Chrysomelidae, Alticinae – výskyt, bionomie, škodlivost
 53. Význační zástupci Curculionidae – výskyt, bionomie, škodlivost
 54. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
-55. Bionomie kalamitních „škůdců“ – Ips sp.;
-56. Bionomie kalamitních „škůdců“ – Cephalcia sp.;
+55. Bionomie kalamitních „škůdců“ – [[Ips sp.]];
+56. Bionomie kalamitních „škůdců“ – [[Cephalcia sp.]];
 57. Bionomie kalamitních „škůdců“ – [[Lymantria monacha]], [[Zeiraphera griseana]];
-58. Bionomie kalamitních „škůdců“ – Hylobius abietis;
+58. Bionomie kalamitních „škůdců“ – [[Hylobius abietis]];
 59. Duby sp. – významné druhy hmyzu - výskyt, bionomie, škodlivost
 60. Buk lesní – významné druhy hmyzu - výskyt, bionomie, škodlivost
 61. Jedle bělokorá - významné druhy hmyzu - výskyt, bionomie, škodlivost
@@ -73,3 +73,7 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 63. Borovice – významné druhy hmyzu - výskyt, bionomie, škodlivost
 64. Modřín opadavý – významné druhy hmyzu - výskyt, bionomie, škodlivost
 65. [[Hmyzí škůdci listnatých dřevin|Ostatní druhy listnatých dřevin]] – významné druhy hmyzu - výskyt, bionomie, škodlivost
+
+
+## Mimo záznam
+[[Populační dynamika hmyzu]]

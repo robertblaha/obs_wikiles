@@ -6,13 +6,15 @@ tags: []
 Výskyt smrkové a modřínové formy. Zásadní rozdíl vzhledu 5. instaru - **smrková** (smkr, limba) housenka žlutavě šedá, žlutohnědá hlava a světlý týlní a anální štítek; **modřínový** (MD) housenka tmavě šedá, leskle černá hlava i týlní a anální štítek.
 **V našich podmínkách významná pouze forma vázaná na smrk ztepilý**.
 
+https://www.silvarium.cz/images/letaky-los/2007/2007_obalec.pdf
+
 ## Výskyt
 Jeden z nejvýznamnějších defoliátorů smrkových porostů v horských a podhorských oblasetch. Typický škůdce starých horských smrkových porostů 5.  - 8. VS. Při přemnožení i tyčkovin a mlazin.
 U nás zejm. záp. Krušné hory, Krkonoše, Jizerské hory, Broumovský výběžek a Tepelská vrchovina.
 
 ## Bionomie
-**Motýli** od poloviny června do konce srpna (v závislosti na počasí a nadmořské výšce), poletují v noci a za soumraku, vajíčka ve skupinách 2 - 10 pod šupinami větviček. **Obligátní zimní diapauza**, housenky se líhnou v květnu. Konzumace výhradně letošních jehlic - ožírají čerstvě rostoucí pupeny, zapřádají letorosty a konzumují letošní jehlice.
-Kuklí se v druhé polovině června a v červenci obvykle v zápředcích z opadlých částí jehlic ve svchní části hrabanky. Po 2 - 3 týdnech motýli (modřínová forma 4 - 5).
+**Motýli** v ČR obvykle v červenci (jinak od poloviny června do konce srpna v závislosti na počasí a nadmořské výšce), poletují v noci a za soumraku, vajíčka ve skupinách 2 - 10 pod šupinami větviček. **Obligátní zimní diapauza**, housenky se líhnou v květnu. Konzumace výhradně letošních jehlic - ožírají čerstvě rostoucí pupeny, zapřádají letorosty a konzumují letošní jehlice.
+Kuklí se v druhé polovině června a v červenci obvykle v zápředcích z opadlých částí jehlic ve svrchní části hrabanky. Po 2 - 3 týdnech motýli (modřínová forma 4 - 5).
 Většinou víceletá gradace, velký význam má koincidence rašení a líhnutí housenek.
 
 ## Škodlivost

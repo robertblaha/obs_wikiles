@@ -18,7 +18,7 @@ Pupeny, výhonky a následně stáčení, přehýbání a spřádání celých l
 ![[Pasted image 20220104221127.png]] ![[Pasted image 20220104221137.png]]
 
 ## *Rhyacionia buoliana* - obaleč prýtový
-
+https://www.silvarium.cz/images/letaky-los/2004/2004_obalec.pdf
 ## Bionomie
 Rojení **motýlů****** v červnu a červenci, létají hlavně samečci. 150 vajíček na pupenech, kůře a jehlicích mladých (6 - 12 let) borovic. **Housenky** po 1 - 2 týdnech. První instar vyžírá bázi jehlic v trubicovitém vaku. Postupně přesun do pupenů (terminální, následně postranní). Ve 4. instaru **zimování** a dokončení vývoje ve středním pupenu, žír mladého pupenu a kuklení (6. instar).
 
@@ -31,6 +31,7 @@ Přednostně mladé porosty - větší pupeny. Přednostně terminální pupeny 
 ![[Pasted image 20220104222326.png]] ![[Pasted image 20220104222343.png]]
 
 ## *Cydia pactolana* - obaleč přeslenový
+https://www.silvarium.cz/images/letaky-los/2012/2012_obalec_smrkovy.pdf
 
 Škůdce mladých smrků 5 - 20 let. Zdravé stromy jej úspěšně zavalujím oslabené (sucho, zvěř) deformace nebo úhyn. Rojení květen až červen 1 letá generace.
 
