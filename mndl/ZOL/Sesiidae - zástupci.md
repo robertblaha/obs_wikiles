@@ -4,6 +4,11 @@ tags: []
 ---
 # Sesiidae - význační zástupci
 
+Sesia apiformis
+Paranthrene tabaniformis
+- zejména mladé topoly
+- 2-4 roky
+
 ## *Sesia apiformis* - nesytka sršňová
 
 Vážný škůdce nejspodnějších částí kmenů **mladých topolů** (zejména 2-5 let) - hlavové školky a plantáže.

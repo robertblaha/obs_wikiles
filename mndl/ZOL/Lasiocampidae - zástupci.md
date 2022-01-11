@@ -4,6 +4,12 @@ tags: []
 ---
 # Lasiocampidae - význační zástupci
 
+Dendrolimus pini
+- starší BO 40-90, jehlice, při přemnožení holožír
+
+Malacosoma neustria
+- ovocnany, lokálně DB
+
 ## *Dendrolimus pini* - bourovec borový
 
 ## Bionomie

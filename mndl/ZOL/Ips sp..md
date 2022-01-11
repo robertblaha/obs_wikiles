@@ -21,7 +21,7 @@ Vychází z hodnocení průměrného objemu kůrovcového dříví v **m3 na 5 h
 - došlo k vytvoření ohnisek výskytu lýkožrouta 
 
 **Kalamitní stav** 
-- \>= 5 m3
+- >= 5 m3
 - způsobuje rozsáhlá poškození lesních porostů na stěnách nebo vznik ohnisek uvnitř lesních porostů až plošné napadení lesních porostů.
 
 Kůrovcovým dřívím jsou stromy, vyrobené dříví, odpad a zbytky dřeva po těžbě, které jsou napadeny lýkožrouty a umožňují jim dokončit vývoj až do stadia brouka.
@@ -31,7 +31,7 @@ Smrkovým porostem se pro účely této vyhlášky rozumí lesní porost se **za
 ## Základní metody kontroly a ochrany
 Předmětem **kontroly** je zjištění výskytu škůdce a jeho vývojové fáze za účelem stanovení termínů pro ochranu.
 - vizuální kontrola při pochůzkách (barva jehlic, drtinky)
-- pomocí odchytových zařízení (feromonových lapačů, lapáků nebo otrávených lapáků - ČSN 48 1000). 
+- pomocí odchytových zařízení ([[feromonový lapač|feromonových lapačů]], [[lapák|lapáků]] nebo otrávených lapáků - ČSN 48 1000). 
 
 **Základem ochrany je aktivní vyhledávání stromů aktuálně lýkožroutem napadených, ale lýkožroutem ještě neopuštěných, tzv. kůrovcových stromů, a jejich včasná a účinná asanace.** Výskyt kůrovcových stromů je v lesních porostech zjišťován celoročně. Za kůrovcové stromy se nepovažují suché stromy lýkožroutem zcela opuštěné, tzv. kůrovcové souše.
 

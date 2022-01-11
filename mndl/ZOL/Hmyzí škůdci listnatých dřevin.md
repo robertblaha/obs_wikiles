@@ -13,7 +13,7 @@ tags: []
 ([[Lymantriidae - zástupci#Euproctis chrysorrhea - bekyně zlatořitná|Euproctis chrysorrhea]])
 [[Lymantriidae - zástupci#Lymantria dispar - bekyně velkohlavá|Lymantria dispar]]
 [[Tortricidae - zástupci#Tortrix viridana - obaleč dubový|Tortrix viridana]]
-
+Cerambyx cerdo
 
 
 ([[Lymantriidae - zástupci#Caliteara pudibunda - stětconoš ořechový|Caliteara pudibunda]])

@@ -1,0 +1,1 @@
+dospelci nepřijímají potravy, larvy predátory plžů

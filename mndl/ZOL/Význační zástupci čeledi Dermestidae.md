@@ -1,0 +1,1 @@
+škody v potravinách živočišného původu a kožešinách

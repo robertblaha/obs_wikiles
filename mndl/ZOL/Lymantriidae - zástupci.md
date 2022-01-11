@@ -3,6 +3,18 @@ aliases: []
 tags: []
 ---
 # Lymantriidae - význační zástupci
+Lymantria monacha
+
+Lymantria dispar
+- polyfág LIST DB, HB, BK
+
+Caliteara pudibunda
+- polyfág LIST, zejména starší BK
+
+Leucoma salicis
+- zejména topoly
+
+
 
 ## *Caliteara pudibunda* - stětconoš ořechový 
 

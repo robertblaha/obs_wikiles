@@ -1,0 +1,2 @@
+lumčíkovití
+zejména endoparazitoidi, bežný je superparazitismus

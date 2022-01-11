@@ -78,6 +78,7 @@ C. aeneum
 ## Borovice
 [[Lasiocampidae - zástupci#Dendrolimus pini - bourovec borový|Dendrolimus pini]]
 [[Lymantria monacha]]
+Brachyderes incanus
 
 **Mladé borovice**
 [[Tortricidae - zástupci#Rhyacionia buoliana - obaleč prýtový|Rhyacionia buoliana]]

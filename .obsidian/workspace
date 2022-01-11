@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZOL/Rozmnožování hmyzu.md",
+            "file": "mndl/ZOL/ZOL MOC.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZOL/Rozmnožování hmyzu.md",
+            "file": "mndl/ZOL/ZOL MOC.md",
             "mode": "preview",
             "backlinks": true,
             "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grisea",
+                "query": "paleome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZOL/Rozmnožování hmyzu.md",
+                "file": "mndl/ZOL/ZOL MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZOL/Rozmnožování hmyzu.md"
+                "file": "mndl/ZOL/ZOL MOC.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZOL/Rozmnožování hmyzu.md",
+                "file": "mndl/ZOL/ZOL MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,15 +155,15 @@
   },
   "active": "2e80f028d813f494",
   "lastOpenFiles": [
-    "mndl/ZOL/Rozmnožování hmyzu.md",
     "mndl/ZOL/ZOL MOC.md",
-    "mndl/ZOL/Hmyzí škůdci listnatých dřevin.md",
-    "mndl/ZOL/Hmyzí škůdci jehličnatých dřevin.md",
-    "mndl/ZOL/Ochrana lesa - legislativa.md",
-    "mndl/ZOL/integrovaná ochrana lesa.md",
-    "mndl/ZOL/Integrovaná ochrana lesa.md",
-    "mndl/ZOL/Integrovaná ochrana lesa.md",
-    "mndl/ZOL/Abiotické faktory v ochraně lesa.md",
-    "mndl/ZOL/Antropogenní faktory v ochraně lesa.md"
+    "mndl/ZOL/Význační zástupci Curculionidae.md",
+    "mndl/ZOL/Význační zástupci Chrysomelidae.md",
+    "mndl/ZOL/Význační zástupci Cerambycidae.md",
+    "mndl/ZOL/Význační zástupci čeledi Meloidae.md",
+    "mndl/ZOL/Význační zástupci čeledi Coccinelidae.md",
+    "mndl/ZOL/Význační zástupci čeledi Lymexylonidae.md",
+    "mndl/ZOL/Význační zástupci čeledi Anobiidae.md",
+    "mndl/ZOL/Význační zástupci Bostrichidae.md",
+    "mndl/ZOL/Význační zástupci čeledi Dermestidae.md"
   ]
 }

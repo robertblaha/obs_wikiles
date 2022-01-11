@@ -50,3 +50,5 @@ Ochrana lesa, podrobnosti k ochraně a odznak a průkaz lesní stráže
 	1) vlastník lesa není povinen používat jako obranná opatření lapače a klást lapáky
 	2) na souvislé holině od 2 ha je možné při zalesňování nechat nezalesněné pruhy max. 5 m široké vzdálené min. 20 m; u holiny na okraji, nechat 5 m na vytovření porostního okraje
 	3) pruhy dle předchozího bodu jsou bezlesí - snižuje se o ně plocha k zalesnění
+
+![[Pasted image 20220109164230.png]]

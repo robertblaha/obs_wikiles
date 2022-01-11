@@ -4,6 +4,18 @@ tags: []
 ---
 # Tortricidae - význační zástupci
 
+Zeiraphera griseana
+
+Tortrix viridana
+- DBL, DBZ - listy
+
+Rhyacionia buoliana
+- mladé borovice - bajonety
+
+Cydia pactolana
+Epinotia tedella
+- smrky do 30ti let
+
 ## *Tortrix viridana* - obaleč dubový 
 
 ## Bionomie

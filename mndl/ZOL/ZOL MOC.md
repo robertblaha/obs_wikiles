@@ -1,14 +1,15 @@
 #mndl/zol #mndl/zkousky [[Přehled předmětů]]
 # Témata (otázky) ke zkoušce
 
-## Obecná entomologie
-
+## Ochrana lesa
 1. Ochrana lesa, členění činitelů, [[Integrovaná ochrana lesa]],
 2. [[Ochrana lesa - legislativa|legislativa ČR]] v lesním hospodářství související s ochranou lesa,
 3. aktuální problémy ochrany lesa v ČR,
 4. [[Abiotické faktory v ochraně lesa|abiotické faktory]] a jejich působení,
 5. [[Antropogenní faktory v ochraně lesa|antropogenní faktory]] a jejich působení,
-6. biotické faktory a jejich působení
+6. [[Biotické faktory v ochraně lesa|biotické faktory]] a jejich působení
+
+## Obecná entomologie
 7. Hmyz – [[Charakteristika hmyzu|charakteristika skupiny]], evoluce, druhová bohatost, teorie vzniku hmyzu
 8. [[Stavba těla hmyzu|Základní stavební plán hmyzího těla]]
 9. [[Hlava hmyzu|Části hlavové schránky hmyzu]]; procephalon, gnathocephalon; typy hlavy podle postavení
@@ -27,10 +28,9 @@
 22. [[Larvy hmyzu|Larva]] - typy larev; končetiny, modifikace hlavy, nohou - zástupci, ekologie
 23. [[Kukly hmyzu|Kukla]] - typy kukel - zástupci;
 24. [[Rozmnožování hmyzu]]
-25. Etologie hmyzu
+25. [[Etologie hmyzu]]
 26. [[Trofické vztahy hmyzu]]
-27. Komunikace hmyzu
-
+27. [[Komunikace hmyzu]]
 
  ## Biosystematika hmyzu
  
@@ -51,16 +51,16 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 41. Význační zástupci [[Lasiocampidae - zástupci|Lasiocampidae]], [[Lymantriidae - zástupci|Lymantriidae]] – výskyt, bionomie, škodlivost
 42. Charakteristika a systém řádu [[Diptera]] - výskyt, bionomie, škodlivost
 43. Charakteristika a systém řádu [Hymenoptera](Hymenoptera.md)
-44. Význační zástupci čeledí Pamphilidae, Tentredinidae, Diprionidae – výskyt, bionomie, škodlivost
-45. Význační zástupci čeledí Cimbicidae, Siricidae – výskyt, bionomie, škodlivost
-46. Význační zástupci čeledí Ichneumonidae, Braconidae, Cynipidae, Formicidae, vespidae, Apoidea – výskyt, bionomie, škodlivost
+44. [[Význační zástupci čeledí Pamphilidae]], [[Význační zástupci čeledi Tentredinidae|Tentredinidae]], [[Význační zástupci čeledi Diprionidae|Diprionidae]] – výskyt, bionomie, škodlivost
+45. [[Význační zástupci čeledí Cimbicidae]], [[Význační zástupci čeledi Siricidae|Siricidae]] – výskyt, bionomie, škodlivost
+46. [[Význační zástupci čeledí Ichneumonidae]], [[Význační zástupci čeledi Braconidae|Braconidae]], [[Význační zástupci čeledi Cynipidae|Cynipidae]], Formicidae, vespidae, Apoidea – výskyt, bionomie, škodlivost
 47. Charakteristika řádu [Coleoptera](Coleoptera.md)
-48. Význační zástupci Carabidae, Staphylinidae, Lucanidae, Geotrupidae, Scarabaeidae – výskyt, bionomie, škodlivost
-49. Význační zástupci Buprestidae, Elateridae, Cantharidae, Lampyridae, Dermestidae – výskyt, bionomie, škodlivost
-50. Význační zástupci Bostrichidae, Anobiidae, Lymexylonidae, Coccinelidae, Meloidae – výskyt, bionomie, škodlivost
-51. Význační zástupci Cerambycidae – výskyt, bionomie, škodlivost
-32. Význační zástupci Chrysomelidae, Alticinae – výskyt, bionomie, škodlivost
-53. Význační zástupci Curculionidae – výskyt, bionomie, škodlivost
+48. [[Význační zástupci Carabidae]], [[Význační zástupci čeledi Staphylinidae|Staphylinidae]], [[Význační zástupci čeledi Lucanidae|Lucanidae]], [[Význační zástupci čeledi Geotrupidae|Geotrupidae]], [[Význační zástupci čeledi Scarabaeidae|Scarabaeidae]] – výskyt, bionomie, škodlivost
+49. [[Význační zástupci Buprestidae]], [[Význační zástupci čeledi Elateridae|Elateridae]], [[Význační zástupci čeledi Cantharidae|Cantharidae]], [[Význační zástupci čeledi Lampyridae|Lampyridae]], [[Význační zástupci čeledi Dermestidae|Dermestidae]] – výskyt, bionomie, škodlivost
+50. [[Význační zástupci Bostrichidae]], [[Význační zástupci čeledi Anobiidae|Anobiidae]], [[Význační zástupci čeledi Lymexylonidae|Lymexylonidae]], [[Význační zástupci čeledi Coccinelidae|Coccinelidae]], [[Význační zástupci čeledi Meloidae|Meloidae]] – výskyt, bionomie, škodlivost
+51. [[Význační zástupci Cerambycidae]] – výskyt, bionomie, škodlivost
+32. [[Význační zástupci Chrysomelidae]], Alticinae – výskyt, bionomie, škodlivost
+53. [[Význační zástupci Curculionidae]] – výskyt, bionomie, škodlivost
 54. Význační zástupci Scolytidae - Scolytinae – výskyt, bionomie, škodlivost
 55. Bionomie kalamitních „škůdců“ – [[Ips sp.]];
 56. Bionomie kalamitních „škůdců“ – [[Cephalcia sp.]];
@@ -69,7 +69,7 @@ Zařaďte druh do systému a vyjmenujte příslušné taxonomické kategorie (dr
 59. Duby sp. – významné druhy hmyzu - výskyt, bionomie, škodlivost
 60. Buk lesní – významné druhy hmyzu - výskyt, bionomie, škodlivost
 61. Jedle bělokorá - významné druhy hmyzu - výskyt, bionomie, škodlivost
-62. Smrk ztepilý - významné druhy hmyzu - výskyt, bionomie, škodlivost
+62. [[Hmyzí škůdci jehličnatých dřevin#Smrk ztepilý|Smrk ztepilý]] - významné druhy hmyzu - výskyt, bionomie, škodlivost
 63. Borovice – významné druhy hmyzu - výskyt, bionomie, škodlivost
 64. Modřín opadavý – významné druhy hmyzu - výskyt, bionomie, škodlivost
 65. [[Hmyzí škůdci listnatých dřevin|Ostatní druhy listnatých dřevin]] – významné druhy hmyzu - výskyt, bionomie, škodlivost

@@ -1,0 +1,1 @@
+významní nepřátelé mšic a červců

@@ -4,6 +4,14 @@ tags: []
 ---
 # Cossidae - význační zástupci
 
+Cossus cossus
+- fyziol. a tech. šk. starší, aleje, parky, topoly 
+- do dřeva několik let
+
+Zeuzera pyrina
+- fyziol. a tech. šk. starší - polyfág JS, DB, JV, BK
+
+
 ## *Cossus cossus* - drvopleň obecný
 
 ## Bionomie

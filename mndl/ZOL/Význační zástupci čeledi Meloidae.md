@@ -1,0 +1,2 @@
+některé druhy ničí vajíčka sarančí
+hypermatebolie

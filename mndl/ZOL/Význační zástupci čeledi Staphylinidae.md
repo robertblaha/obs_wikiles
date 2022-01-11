@@ -1,0 +1,1 @@
+vesměs karnivorní a saprofágní, obtížná determinace, vyvinuté běhací nohy
