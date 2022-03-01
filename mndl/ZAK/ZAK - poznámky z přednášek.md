@@ -19,7 +19,7 @@
 		- pásy z RRD
 	- rozestup 40m, výška 2m
 		- valy z těžebních zbytků
-		- polopropustné oploicenky
+		- polopropustné oplocenky
 		- zásněžky (jako u cesty)
 	- buřeň - vysoké strniště, vyžínání v pruzích
 	- využití modelace terénu - i jemné
@@ -120,7 +120,7 @@
 ## Další ohrožení
 - myšovití
 	- i u starších výsadeb
-	- v soiučasnosti
+	- v současnosti
 - mechanická stabilita
 	- žebra z dřevin s silným kořenovým systémem
 	- BK není vhodná dřevina

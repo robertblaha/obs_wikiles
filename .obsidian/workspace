@@ -9,27 +9,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/ZOL/ZOL MOC.md",
+            "file": "mndl/Teorie ideálního lesa.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "3bad876bdde81e14"
-      },
-      {
-        "id": "6cc1914fd43b81d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mndl/ZOL/ZOL MOC.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "group": "3bad876bdde81e14"
+        }
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paleome",
+                "query": "lesní oblas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md",
+                "file": "mndl/Teorie ideálního lesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -122,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md"
+                "file": "mndl/Teorie ideálního lesa.md"
               }
             }
           },
@@ -132,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/ZOL/ZOL MOC.md",
+                "file": "mndl/Teorie ideálního lesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,24 +130,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 389,
-    "collapsed": true
+    "width": 389
   },
   "active": "2e80f028d813f494",
   "lastOpenFiles": [
-    "mndl/ZOL/ZOL MOC.md",
-    "mndl/ZOL/Význační zástupci Curculionidae.md",
-    "mndl/ZOL/Význační zástupci Chrysomelidae.md",
-    "mndl/ZOL/Význační zástupci Cerambycidae.md",
-    "mndl/ZOL/Význační zástupci čeledi Meloidae.md",
-    "mndl/ZOL/Význační zástupci čeledi Coccinelidae.md",
-    "mndl/ZOL/Význační zástupci čeledi Lymexylonidae.md",
-    "mndl/ZOL/Význační zástupci čeledi Anobiidae.md",
-    "mndl/ZOL/Význační zástupci Bostrichidae.md",
-    "mndl/ZOL/Význační zástupci čeledi Dermestidae.md"
+    "mndl/Teorie ideálního lesa.md",
+    "mndl/HÚL - poznámky z přednášek.md",
+    "Dendrologie MOC.md",
+    "Typologie/Ekologické řady a edafické kategorie.md",
+    "mndl/PL/Poznámky z přednášek.md",
+    "Picea abies.md",
+    "Typologie/EŘ Z - extrémní.md",
+    "Typologie/EŘ B - živná.md",
+    "Typologie/EŘ J - obohacená humusem (javorová).md",
+    "Typologie/EŘ I - obohacená vodou (jasanová).md"
   ]
 }

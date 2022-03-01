@@ -1,3 +1,7 @@
+---
+aliases: []
+tags: []
+---
 # Otázky ke zkoušce
 
 ## Semenářství a pěstování sadebního materiálu

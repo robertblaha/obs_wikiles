@@ -33,8 +33,12 @@ Přenos mezi Hercynskou a Karpatskou oblastí není možný, vyjma výjimek:
 
 Další omezení pro SM, BO, JD, MD, DBL
 Rámcově 
-- SM - Šumava, Hrubý Jeseník, Moravskoslezské Beskydy
-- BO - ochrana Polabí a Jihočeských pánví a některých vrchovin
+- SM - [[Přírodní lesní oblast#13 - Šumava|13 Šumava]], [[Přírodní lesní oblast#27 - Hrubý Jeseník|27 Hrubý Jeseník]], [[Přírodní lesní oblast#40 - Moravskoslezské Beskydy|40 Moravskoslezské Beskydy]]
+- BO
+	- do ČM vrchoviny jen Č. les a Šumava od 5. LVS
+	- do Podkrkonoší, Předhoří Orl. hor a ČM mezihoří jen z Polabí max. do 3. LVS
+	- do Polabí a Jihočeských pánví zákaz přenosu
+	- náhorní ekotyp celá ČR bez omezení (kromě genových oblastí)
 - JD - ochrana okolí Šumavy a Karpatské oblasti
 - MD - ochrana jesenického modřínu
 - DBL - ochrana Moravských úvalů a Jihočeských pánví

@@ -1,0 +1,106 @@
+---
+aliases: [struktura lesních porostů]
+tags: []
+---
+
+## Druhové složení
+- monokultury
+- smíšené porosty
+	- zastoupení jako plošný podíl
+	- dřeviny dle zastoupení
+		- hlavní
+			- největší plošný podíl
+			- zpravidla nad 30 %
+		- přimíšené
+			- více, než 10 % a méně, než hlavní dřevina
+		- vtroušené
+			- méně než 10 %
+	- rozmístění dřevin
+		- skupinovitě
+		- skupinkovitě
+		- hloučkovitě
+		- jednotlivě
+
+## Věkové složení
+- hranice středních výčetních tlouštěk: 5 - 12 - 19 - 35
+- růstové fáze
+	- počáteční fáze
+		- přirozená obnova
+			- **nálet**
+				- biologicky nezabezpečené semenáčky
+				- střední porostní výška h <= 0,5 m
+			- **nárost**
+				- zajištěný nálet
+				- h 0,6 - 1,3 m
+		- uměná obnova
+			- **založená kultura**
+				- nezajištěný porost se sadby nebo síje
+			- **zajištěná kultura**
+				- obvykle h 0,6 - 1,3 m
+	- **mlazina**
+		- střední porostní výška > 1,3 m a výčetní tloušťka do 5 cm
+		- většinou hustě zapojeno a výšková diferenciace
+		- podúroveň omezené podmínky => intenzivní přirozené prořeďování (zejména v přirozené obnově)
+		- vrcholí výškový přírůst
+	- **tyčkovina** ^95a7a1
+		- střední výčetní tloušťka 6 - 12 cm
+		- zpravidla 2. - 4. věkový stupeň 🟨🟥
+		- vrcholí tloušťkový přírůst
+		- intenzivní vylučování jedinců spodní vrsty a odumírání větví do cca 2 m
+	- **tyčovina**
+		- střední výčetní tloušťka 13 - 19 cm
+		- u většiny dřevin vrcholí objemový přírůst
+		- trvá výšková diferenciace
+		- výrazné rozčleňování na korunu a kmene
+		- přirozené čištění prostoru nad 2 m
+		- při probírkách již zužitkovatelné dimenze
+	- **kmenovina**
+		- **nastávající kmenovina**
+			- střední výčetní tloušťka 20 - 35 cm
+			- většinou 5. - 7. věkový stupeň 🟩🟦
+		- **vyspělá kmenovina** (tlustá kmenovina)
+			- střední výčetní tloušťka nad 35 cm
+			- ustálený porost s významným hodnotovým přírůstem
+			- věk obvykle nad 80 let 🟫🔲🟪🟢
+		- **přestárlá kmenovina** (velmi tlustá kmenovina)
+			- přesahuje fyziologickou zralost
+			- kledající až záporný hodnotový přírůst
+			- věk překračující obmýtní dobu o polovinu obnovní doby
+- věkové složení
+	- stejnověký
+		- v mládí do rozdílu 5 let, střední věk do 10, dospělé až 20
+		- obvykle se uvádí do rozdílu 10 % věku porostu
+	- různověký
+	- věkové třídy (á 20 let)
+	- věkové stupně (á 10 let) 
+
+## Prostorová skladba 
+Vyjadřuje způsob obsazení nadzemního prostoru
+- **Horizontální složení**
+	- **spon**
+	- **zápoj**
+		- vzájemný dotyk a prorůstání větví
+		- stupně
+			- *přehoustlý*
+				- překrývání větví, tísnění korun
+			- *dokonalý*
+				- dotyk větví, dobře formované koruny
+			- *uvolněný*
+				- menší, nepatrné mezery
+			- *dočasně přerušený*
+				- větší mezery, trvá možnost zapojení
+			- *trvale přerušený*
+				- již nedojde k zapojení
+	- **zakmenění**
+		- využití produkčního potenciálu stanoviště
+		- poměr skutečné a tabulkové zásoby/kruhové výčetní základny
+- **Vertikální členění**
+	- **jednoetážové**
+		- jedna zřetelná korunová vrstva - patro
+			- úroveň porostu
+			- naúroveň
+			- podúroveň
+		- **dvouetážové** (případně **víceetážové**)
+			- více zřetelně oddělitelných korunových úrovní
+			- lze vylišit horizontální zápoj jednotlivých etáží
+			- korunové projekce (stíněné) výrazně převyšují výměru
