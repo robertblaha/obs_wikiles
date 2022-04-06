@@ -1,0 +1,3 @@
+V předchozí meziledové době nebyl buk zdaleka tak rozšířen. Genetické výzkumy ukazují, že po skončení posledního glaciálu se většina refugií nijak zvlášť nerozšiřovala. Geneticky vhodný genotyp vznikl v Dinárských Alpách a většina Evropského buku je tak původem z tohot refugia. Na východě Evropy je ve hře ještě teorie západokarpatskcýh refugií (jsou náznaky, že jedno mohlo být i na Slovensku).
+
+https://vesmir.cz/cz/casopis/archiv-casopisu/2011/cislo-12/tesite-se-nove-druhy-jiste-prijdou-chce-trpelivost.html

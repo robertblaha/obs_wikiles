@@ -22,7 +22,7 @@ tags: []
 		- jednotlivě
 
 ## Věkové složení
-- hranice středních výčetních tlouštěk: 5 - 12 - 19 - 35
+- hranice středních výčetních tlouštěk: 6- 12 - 19 - 35
 - růstové fáze
 	- počáteční fáze
 		- přirozená obnova
@@ -38,12 +38,12 @@ tags: []
 			- **zajištěná kultura**
 				- obvykle h 0,6 - 1,3 m
 	- **mlazina**
-		- střední porostní výška > 1,3 m a výčetní tloušťka do 5 cm
+		- střední porostní výška > 1,3 m a výčetní tloušťka do 5 - 6 cm
 		- většinou hustě zapojeno a výšková diferenciace
 		- podúroveň omezené podmínky => intenzivní přirozené prořeďování (zejména v přirozené obnově)
 		- vrcholí výškový přírůst
 	- **tyčkovina** ^95a7a1
-		- střední výčetní tloušťka 6 - 12 cm
+		- střední výčetní tloušťka 7 - 12 cm
 		- zpravidla 2. - 4. věkový stupeň 🟨🟥
 		- vrcholí tloušťkový přírůst
 		- intenzivní vylučování jedinců spodní vrsty a odumírání větví do cca 2 m
