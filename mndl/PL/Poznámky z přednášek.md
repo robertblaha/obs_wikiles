@@ -513,3 +513,317 @@ tags: []
 - významný vliv mají na kvalitu produkce
 - zejména u jehl. porostů můžou významně posílit stabilitu
 - 
+
+# 6. 4. 2022 - Obnova
+## Péče o nastávající kmenoviny
+- probérky končí, vesměs, v tyčovinách
+- u listnatých je zásadním cílem kvalita, u jehličnatých je kritická stabilita a bezpečnost produkce
+- přírůstové hospodářství prosté
+	- cílem je vyprodukovaná hmota
+	- např. Bohdaneckého probírka
+- přístůstové hospodářství jakostní
+	- cílem je kvalita
+	- zejména pro listnaté
+- Seebachův modifikovaný bukový les
+	- v semenném roce se udělá silný zásah - 100 - 140 stromů na ba 
+	- předpokládá se, že v uvolněném porostu bude vysoké přirozené zmlazení, které bude krýt půdu a kmeny
+	- následně se nechává 30 - 40 - před domýcením se spodní etáž vyřezává
+- Burghardtovo přírůstové hospodářství
+	- podobné, jako Seebach, ale slabší
+	- je tak vhodné i pro DB
+- Voglovo přírůstové hosp.
+	- vystupňování péče o nejjakostnější stromy
+	- soustředíme se na nejjakostnější stromy a od cca 60ti let jim vždy po 20ti letech odstraňujeme konkurenci
+	- ponechává se vzrůlstavá  podúroveň
+## Zpevňovací seče
+- zpevňování porostů
+	- postupné seče mýtních  článků s ohledem na převažující bořivé větry
+- odluka
+	- osamostatnění středně starého porostu
+- rozluka
+	- provádí se v rozsáhlých stejnorodých porostech
+	- rozčlenění porostů úzkými náseky kolmo na převládající větry a zalesnění zpevňujícími dřevinami
+	- u dřevin na uvolněných okrajích nedojde k dalšímu zkracování korun, zvýsí se tloušťkový přírůst a tím se zlepší štíhlostní kvocient
+- Závora
+	- ve středně starých porostech se provede se v širším pruhu (60 - 60 m) se provede naředění
+	- po naředění se zvýší tloušťkový přístůst a tím se zvýší stabilita
+
+## Obnova lesa
+- obnova je VĚDOMÝ PROCES nahrazení stávajícího porostu porostem novým
+- je východiskem pěstebního konceptu a kvality a stability lesních porostů
+- základní termíny
+	- obnova
+	- založení lesa
+		- první zalesnění nelesních pozemcích (zemědělská půda, skládka, výsypka, ...)
+		- někdy používáno jako označení jako iniciální fáze zalesnění
+	- zalesňování
+		- umělá obnova
+		- legislativa používá pojem zalesnění ve smyslu založení
+- obnova v lese přírodním
+	- v přírodě probíhá obnova maloplošně!
+### Kritéria obnovy
+- **způsob vytváření - jak?**
+	- v ČR nadmíra umělé obnovy
+	- SK 65 % umělé obnovy, Slovinsko přes 80 % přirození
+	- viz prezentace - přirozená, umělá, sadba, síje
+	- zákon preferuje přirozenou obnovu (se dvěmi výjimkami - nevhodná genetická kvalita nebo dřevinná skladba)
+	- vhodný způsob obnovy záleží na konkrétnám stanovišti - měly bychom se snažit o obnovu přirozenou (v zásadě je výhodnější biologicky i ekonomicky - umělé zajištění dnes statisíce na ha - 100 - 250 tis. Kč/ha do zajištění)
+	- dnes je situace ovlivněna dotacemi, které preferují umělou obnovu
+	- jak v umělé, tak přirozené obnově je důležitá i genetická variabilita
+		- v přirozené obnově využívat semenné roky - do obnovy se zapojí více jedinců
+		- i ve sběru pro umělou obnovu zohlednit semenné roky
+			- sporné je i třídění SAMA - upřednostňujeme geonotyp pionýrského typu, který v mládí roste rychleji
+	- **přirozená obnova v lesích**
+		- předpoklady úspěchu
+			- plánovat těžby a obnovy s ohledem na semenné roky
+			- dostatečný počet a rozmístění mateřských jedinců
+			- vhodné půdní a klimatické podmínky pro vzcházení
+		- fáze podmínek obnovy
+			- předčasná (juvenilní) fáze
+				- vhodné podmínky pro vzcházení, ale nevhodné pro odrůstání
+				- obnova v době mladého porostu -nevhodné podmínky pro růst
+			- optimální
+				- vhodné podmínky pro vzcházení i odrůstání
+			- promeškaná (finální, senilní) fáze
+				- dobré podmínky pro růst, ale už nejsou dobré podmínky pro vzcházení
+				- např. příliš prosvětlený porost - zabuřenělá místa a nedaří se vczházení
+				- lze případně provést přípravu půdy
+		- etapy PO
+			- fruktifikace stromu
+				- počátek fruktifikace dle dřevin a podmínek
+				- u DB semenné roky 5 - 10 let
+				- ale v posledních letech se zkracují semenné roky u JD a SM - prakticky co 2 roky
+			- opad a šíření diaspor
+				- autochorie - barochorie
+					- malý okruh šíření - je třeba rovnoměrné rozmístění mateřských jedinců
+				- anemochorie
+					- účinná distribuce cca do 2 porostních výšek
+				- hydrochorie (OL)
+				- zoochorie
+					- "sojčí síje" - i přes 4000 žaludů za sezónu
+					- u JR velké rozšíření drozdi
+			- přezimování diaspor
+				- kritikcé období pro životnost semen
+				- mráz, sucho, houby, živočichoví
+				- lze ovlivnit přípravou půdy a ochrannými opatřeními (oplocení, redukce hlodavců, ...)
+			- klíčení a odrůstání semenáčků
+				- světelné/radiční poměry
+				- vodní režim
+				- půdní vlastnosti a reliéf
+				- biotičtí škůdci
+				- ovlivnění - příprava půdy a hra se světlem a jeho dávkování				- 
+- **prostorové uspořádání - kde?**
+	- zda probíhá v celém prorostu nebo v částech a zda vzniká holina
+	- **základní obnovní způsoby**
+		- seč holá
+			- pruhová seč holá
+				- nejzákladnější a nejjednodušší
+				- omezení plochy a šířky legislativou - **zopakovat** - včetně důvodů a přiřazování holin 
+			- kulisová holá seč
+				- vhodná pro DB a BO - hluboce kořenící odolné vyvrácení
+				- několik pruhovách sečí souběžně
+				- kulisa je to, co stojí
+			- proužková seč (Polanského)
+				- úzký násek - lanovka
+			- Šroglův kulisový holorub
+			- nepravidelní seče
+				- domýcení porostů
+			- klínová seč holá
+				- tvar klínu s hroty proti větru
+				- vhodné podmínky i pro dřeviny vyžadující stín
+				- v hrotu lze pracovat i s přirozenou obnovou
+		- seč okrajová
+			- má dva okraje - vnitření a vnější
+			- kombinace holé seče a připojená clonná seč
+			- vnitřní okraj tam, kam dosahuje boční světlo
+			- příkladem je okrajová Wagnerova seč
+		- seč clonná
+			- obnova vzniká pod mateřským porostem
+			- Hartig-Heyerova velkoplošná seč 
+				- modelový příklad
+					- 4 fáze
+						- přípravná
+							- v případě řádně prováděných probírek s dostatečným uvolněním lze tuto fázi vynechat
+						- semenná
+							- provádí se zásadně v semenném roce
+							- cílem je zlepšit podmínky pro klíčení a vzcházení semen
+						- prosvětlovací
+							- zlepšení podmínek pro odrůstání náletu
+							- může jich být několik za sebou
+						- domýtná
+							- po biologickém zajištění podrostu
+							- při výšce nárostu kolem 1 m
+					- nevýhody
+						- vzniká stejnověký porost
+						- problém s vyklizením vytěžené hmoty
+						- problém při následném přísušku - problém s doplněním přirozené obnovy
+			- Mayerova velkopločná seč
+				- určena pro smíšené porosty
+				- snaha odstrani nevýhodu druhové homogenity H-H seče
+			- Konšelova clonná seč
+				- po prosvětlovací seči vytvoření kosočtverců rozdělených linkami a rozlukami - kromě zlepšení dopravní obslužnosti i zlepšení klimatických podmínek pro obnovu
+				- samostatná práce v kosočtvercích
+			- Maloplošná pruhová clonná seč
+				- postup jednotlivými fázemi seče celým porostem v semenných letech
+				- vzniká šablonovitý porost
+			- Skupinová (Gayerova) maloplošná seč
+				- de facto vytváření clonných kotlíků
+				- vhodná také pro rekonstrukce a přeměny druhové skladby
+			- Bádenská seč
+				- dochází při ní i ke zušlechťování porostu
+				- podpora nejjakostnějších jedinců
+		- kombinovaná seč
+			- aditivní
+				- použití dvou nebo více sečí
+				- např. holá seč a kotlíky
+				- po dokončení obnovy jednou sečí pokračuji jiným způsobem
+					- např. kotlík a následné rozšiřování okrajovou sečí
+			- substitivní
+				- v průběhu jedné seče dojde k nahrazení seče jiným typem
+				- příklad Eberhardova klínovitě rozestupná seč
+					- nejprve prosvětlení clonnou sečí
+					- následné klínovité rozšiřovaní okrajovou klínovou sečí
+	- **precizí pojetí obnovních způsobů**
+		- holé seče
+		- výstavkové seče
+			- především BO a MD
+			- obecně dřeviny hluboce kořenící s lehkými semeny
+			- počet výstavků záleží na dřevině a na plánovaném zastoupení a roli dřeviny v porostu
+			- důležitý je i plán, kdy budou vytěženy a plán jejich odvozu z porostu
+		- maloplošné kotlíkové holé seče
+			- vytváří specifické klimatické podmínky
+			- příznivější podmínky pro obnovu než v porostu a i než holá seč
+			- specifický chod teplot a vlhkosti
+			- doporučuje se elipsa V-Z (většina srážek u nás ze západu)
+		- clonné seče
+		- nepravidelné maloplošné clonné seče
+		- obnova v lese výběrném
+- trvání obnovy
+	- krátkodobá - do 630 let
+	- dlouhodobá 30+ let
+	- obnovní doba
+	- obnovní čísla
+
+# 8.4.2022
+## Přirozená obnova - prezentace ke zkoušce
+- podmínky přirozené obnovy
+	- věk - zákon min. 80 let, ale lze výjimky
+	- geneticky nevhodné ne
+	- je třeba zvážit stanoviště
+		- úživnost - na kyselých lépe - méně zabuřenění
+		- hodně vody v půdě - horší - zabuřenění
+		- horské polohy - krátká vegetační doba (pomalý nástup jara, omrzání na podzim)
+		- sucho
+- příprava porostu
+	- důsledné probírky
+	- rozčlenění porostu (vyklízení dřeva)
+	- péče o kvalitní stromy - čím větší koruna, tím větší fruktifikace
+	- příprava půdy
+		- biologicky - rozvolnění porostu
+		- mechanicky - spíše na holinách
+		- chemická - likvidace buřeně (poslední cesta
+- stanovení časového a prostorového pořádku
+	- je třeba mít na paměti zvolenou seč
+	- zmlazovací doba - doba, od nasemenění do osamostatnění (záleží na dřevině 4 - 40 let)
+- volba sečí
+- péče o nárosty
+
+## Hospodářské tvary lesy
+- les vysoký - kmenovina
+	- vznik generativní cestou
+- les nízký - pařezina
+	- vznik vegetativní cestou
+	- krátké obmýtí
+	- historicky hlavně palivo
+	- pěstování
+		- cca do 10ti let vytřídění výmladků (šikmým řezem)
+- les střední - sdružený
+	- vznik generativní i vegetativní cestou
+	- více etáží
+		- v horní etáži převážně generativní obnova
+		- při převodech vždy v krátém obmýtí ponechávat nejkvalitnější jedince
+		- horní etáž ideálně cenné listnáče
+
+## Hospodářské způsoby (formy)
+- soubor opatření ovlivňující strukturu porostu
+- **výběrný**
+	- atributy
+		- výběrný
+		- přírodě blížký
+		- biologicky oprávněný
+		- Dauerwald
+	- trvalost je dána přírůstem (těžím to, co mi přiroste)
+	- forma
+		- strom
+		- skupina stromů
+	- principy
+		- trvalost lesa na každé prostorové jednotce
+		- trvalá možnost těžby mýtně zralých stromů na každé jednotce
+		- všechny vývojové fáze v každé jednotve
+		- upatnění zušlechťovacícho výběru
+		- primárně přirozená obnova
+	- vhodné jsou dřeviny snášející stín, buk většinou skupinově
+	- v zásadě je třeba stnoviště, kde roste SM, JD
+	- pěstění probíhá zejména těžbou
+	- výchova předmýtní většinou jednotlivý negativní a zdravotní výběr
+	- nutná je hustá síť zpřístupnění
+	- vhodné jsou šetrné způsoby vyklízení (kůň)
+	- tloušťkové křivky a inventarizace přírůstu
+	- zásoba nižší, ale trvalá zásoba (200 - 400 m3/ha)
+	- pokud přestanu těžit, sníží se přírůst
+	- klady
+		- kvalitnější sortimenty, lepší zpeněžení
+		- resilience
+	- zápory
+		- větší náročnost na odbornou péči
+	- v ČR v zásadě nejsou výběrné lesy, jen málo dlouhodobých převodů; legislativa jej umožňuje, ale "vše je proti němu"
+**pasečný**
+	- atributy
+		- věkových tříd
+		- plantáž
+		- monokulturní
+		- holosečný
+	- trvalost je dána pasekou a věkovými třídami
+	- výběrné principy se uplatňují např. při probírkách - vybíráme to nejhorší nebo nejlepší
+	- hospodářské formy
+		- podrostní
+			- první seče výběrné - jen nejkvalitnější a zralí jedinci
+			- výběrné principy uplatňujeme jen v určitém časovém intervalu (dle doby uplatňování se liší)
+		- násečný
+			- vytěžená plocha max v šíři porostní výšky
+			- obnova vzniká na holině i pod porostem
+			- vzniká vnitřní a vnější okraj
+			- můžu obnovat světlomilné i stín snášející dřeviny současně
+			- někdy je ale postup sečí tak rychlý, že stín snášející nevydrží v konkurenci světlomilných
+		- holosečný
+			- vytěžená ploch větší než porostní výška
+			- problémy holiny - viz prezentace
+				- mineralizace půdy
+				- ochuzování - v prvních letech "pěstujeme" buřeň
+				- nevýběrná těžba - těžím vše, bez ohledu na dimenzi, kvalitu
+			- přednosti
+				- mechanizace
+				- přehlednost
+				- vhodný pro RRD z vegetativní obnovy - při stejných rozestupech je to homogenní porost - plantáž 
+				- i v CHS 13
+			- kotlík není holoseč - vytváří unikátní prostředí pro obnovu a růst
+
+## Dauerwald - trvale tvořivý les
+- způsob nakládání s lesem maximálně využívající jeho přírodní vlastnosti
+- stinné dřeviny - vývojová stádia nad sebou
+- slunné pdřeviny - vývojová stadia na vedlejších plochách
+- Konšel
+
+
+## Převody
+- většinou od přírodě vzdálenějších k přírodě bližším
+	- holosečný na násečný nebo podrostní
+	- a následně Bádenskou sečí na výběrný
+- nízký na vysoký
+	- smýtit, poorat, vysadit
+	- přes nepravou kmenovinu a následnou přirozenou obnovu a clonné seče
+- nízký na střední
+
+převod - změna struktury, hosp. tvaru nebo způsobu
+přeměna - změna dřevin
+přestavby - přeměna + převod

@@ -6,15 +6,29 @@
       {
         "id": "d4da71ba60ee1ffd",
         "type": "leaf",
+        "dimension": 70.47923322683705,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/HÚL - poznámky z přednášek.md",
+            "file": "mndl/PL/Příprava na zkoušku.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "e8ce1773d9835301"
+      },
+      {
+        "id": "e3c769dc3d3bb9f2",
+        "type": "leaf",
+        "dimension": 29.520766773162936,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "mndl/PL/Příprava na zkoušku.md"
+          }
+        },
+        "group": "e8ce1773d9835301"
       }
     ],
     "direction": "vertical"
@@ -41,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stromy/listnaté/fagaceae",
+                "query": "tag:#anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/HÚL - poznámky z přednášek.md",
+                "file": "mndl/PL/Příprava na zkoušku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/HÚL - poznámky z přednášek.md"
+                "file": "mndl/PL/Příprava na zkoušku.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/HÚL - poznámky z přednášek.md",
+                "file": "mndl/PL/Příprava na zkoušku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +154,15 @@
   },
   "active": "d4da71ba60ee1ffd",
   "lastOpenFiles": [
-    "mndl/HÚL - poznámky z přednášek.md",
-    "Quercus petraea.md",
-    "Quercus robur.md",
-    "Quercus pubescens.md",
-    "mndl/PL/Struktura porostů.md",
+    "mndl/PL/Příprava na zkoušku.md",
     "mndl/PL/Poznámky z přednášek.md",
-    "202109032128 Možný trvalý výskyt modřínu na území ČR v celém postglaciálu.md",
-    "Statistika - základní pojmy.md",
-    "mndl/Leptosoly.md",
-    "mndl/Untitled.md"
+    "mndl/Základní fakta o lesích v ČR.md",
+    "mndl/PL/Hospodářské soubory.md",
+    "mndl/ZAK/Přírodní lesní oblast.md",
+    "Test ANKI.md",
+    "Abies.md",
+    "mndl/ZOL/Tortricidae - zástupci.md",
+    "mndl/ZOL/Hmyzí škůdci listnatých dřevin.md",
+    "Legislativa v lesním hospodářství.md"
   ]
 }

@@ -186,7 +186,7 @@ Typy normálního lesa
 	- třístupňové - oddělení, dílec, porost
 
 
-## 03.2 Nepasečný (sturkturně bohatý) les
+## 03.2 Nepasečný (strukturně bohatý) les
 - https://fraxinus.mendelu.cz/hul2/?page_id=159
 - **Oddělení**  - arabské číslice
 	- Trvalé
@@ -493,7 +493,7 @@ Typy normálního lesa
 		- **Induktivní metoda**
 			- součet těžeb navržených v jednotlivých porostních skupinách
 			- použití u majetků do 50 ha a I. zónách CHÚ
-			- lze ji vyzužít i pro etát předmýtní těžby
+			- lze ji využít i pro etát předmýtní těžby
 		- lze i kombinovat (deduktivně-induktivní či induktivně-deduktivní)
 - **Těžební ukazatelé** ([[vyhl. 84/1996 Sb.]])
 	- Ukazatel mýtní těžby dle dílčích těžebních procent(**těžební procento**) - **TM**
@@ -512,10 +512,10 @@ Typy normálního lesa
 			- $n$ ... počet let stahovení LHP
 			- $Z_M$ ... zásoba mýtních porostů
 		- přípustné rozmezí +/- 20 %
-		- na majetcích nad 500 ha je korekčním faktorem (do 500 ha je vůdčím ukazatelem těžebního procenta).
-			- nadbytek mýtních porostů - TM (včetně rozpětí) je vyšší, než hodnota dle B (včetně rozpětí) - návrh těžby se stanoví na spodní hranici TM
-			- nedostatek mýtních porostů - B (včetně rozpětí) je vyšší, než hodnota dle TM (včetně rozpětí) - návrh těžby se stanoví na horní hranici TM
-			- při překryvu rozpětí TM a B se stanovuje těžba na horní hranici TM
+		- na majetcích nad 500 ha je korekčním faktorem (do 500 ha jsou vůdčím ukazatelem těžební procenta).
+			- nadbytek mýtních porostů - $T_M$ (včetně rozpětí) je vyšší, než hodnota dle B (včetně rozpětí) - návrh těžby se stanoví na spodní hranici $T_M$
+			- nedostatek mýtních porostů - B (včetně rozpětí) je vyšší, než hodnota dle $T_M$ (včetně rozpětí) - návrh těžby se stanoví na horní hranici $T_M$
+			- při překryvu rozpětí $T_M$ a B se stanovuje těžba na horní hranici $T_M$
 	- **Ukazatel decenálních výchovných těžeb**
 		- pro pasečný a podrostní hospodářský způsob
 		- lze stanovit induktivně v porostech
@@ -573,7 +573,7 @@ Typy normálního lesa
 	- **lesnické mapy**
 		- legislativa specifikuje jen základní požadavky
 			- měřítko 1:10 000 nebo menší
-			- přesnost zěmření hranic (vůči měřítku)
+			- přesnost zaměření hranic (vůči měřítku)
 		- hospodářská
 			- moc se nepoužívá
 			- jen černobílá a bez vrstevnic

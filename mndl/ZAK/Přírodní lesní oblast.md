@@ -27,6 +27,8 @@ tags: []
 
 ## 31 - Českomoravské mezihoří
 
+## 33 - Předhoří Českomoravské vrchoviny
+
 ## 34 - Hornomoravský úval
 
 ## 35 - Jihomoravské úvaly
