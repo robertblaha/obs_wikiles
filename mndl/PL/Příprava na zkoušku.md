@@ -164,11 +164,39 @@ Charakterizuje délku obnovy a intezitu zásahu. Počet čísel je poče deceni�
 Např. 334 - obnovní doba 30 let (3 decenia), v prvním a druhém deceniu těžba vždy 30 % a v posledním zbylých 40 %
 ^1651602714013
 
+## Začátek obnovy #anki 
+věk porostu při zahájení obnovy, dle hodnotově produkčních (hospodářsko úpravnických) ukazatelů
+^1651953966077
+
+## Doba návratná #anki 
+časový interval, který uplyne mezi dvěma na sebe navazujícími obnovními zásahy
+^1651953966081
+
+## Směr a východiska obnovy - vlivy na umístění #anki 
+ohrožení větrem, transport hmoty
+^1651953966085
+
+
+## Počátek těžby (dle zákona) #anki
+- vysoký les min. 80 let
+- nízký les min. 20 let
+
 ## Hospodářské tvary #anki 
 - les vysoký (typicky generativní původ)
 - les nízký (typicky vegetativní /výmladkový původ)
 - les střední (kombinace)
 ^1651691676144
+
+## Hospodářské způsoby #anki
+- výběrný
+- pasečný
+^1651953966089
+
+## Hospodářské formy #anki 
+- podrostní
+- násečný
+- holosečný
+^1651953966097
 
 ## Formy (způsoby) smíšení #anki
 - jednotlivé
@@ -254,6 +282,31 @@ samoprořeďování v důsledku diferenciace
 nezohledňuje hospodářský cíl
 dána dřevinou, stanovištěm a věkem
 ^1651784894687
+
+## Dauerwald - trvale tvořivý les #anki
+- způsob nakládání s lesem maximálně využívající jeho přírodní vlastnosti
+- stinné dřeviny - vývojová stádia nad sebou
+- slunnépdřeviny - vývojová stadia na vedlejších plochách
+- Konšel
+^1651953966106
+
+## Převod #anki
+změna struktury, hosp. tvaru nebo způsobu
+- většinou od přírodě vzdálenějších k přírodě bližším
+	- holosečný na násečný nebo podrostní
+	- a následně Bádenskou sečí na výběrný
+- nízký na vysoký
+	- smýtit, poorat, vysadit
+	- přes nepravou kmenovinu a následnou přirozenou obnovu a clonné seče
+- nízký na střední
+^1651953966114
+
+## Přeměna
+Změna dřevinné skladvy
+
+## Přestavba #anki 
+přeměna + převod
+^1651953966122
 
 
 # Základní dřeviny
@@ -1026,7 +1079,9 @@ Jakostní metoda zaměřená na výbrané stromy. Již od mlazin negativné výb
 
 # Péče o nastávající kmenoviny #anki
 - probírky končí, vesměs, v tyčovinách
+- cílem péče je zvášit tloušťkový (objemový) přírůst
 - u listnatých je zásadním cílem kvalita, u jehličnatých je kritická stabilita a bezpečnost produkce
+- ve smrkových porostech zpevňovací seče
 ^1651868357599
 
 ## přírůstové hospodářství prosté #anki
@@ -1039,12 +1094,15 @@ Jakostní metoda zaměřená na výbrané stromy. Již od mlazin negativné výb
 - cílem je kvalita
 - zejména pro listnaté
 - přerušení zápoje obvykle trvalé
+- těžba až 50 %
 ^1651868357613
 
 ### Seebachův modifikovaný bukový les #anki
-- v semenném roce se udělá silný zásah - 100 - 140 stromů na ba 
-- předpokládá se, že v uvolněném porostu bude vysoké přirozené zmlazení, které bude krýt půdu a kmeny
-- následně se nechává 30 - 40 - před domýcením se spodní etáž vyřezává
+- v silném semenném roce kolem 70 - 80 se udělá silný zásah - 100 - 140 stromů/ha 
+- předpokládá se, že v uvolněném porostu bude vysoké přirozené zmlazení, které bude krýt půdu a kmeny, pokud ne, vysadí se
+- následně se nechává 30 - 40 - silný přírůst uvolněných stromů
+- před domýcením se v silném semenném roce spodní etáž odstraní
+- po zajištění obnoveného porostu se jednorázově vytěží hlavní porost
 ^1651868357621
 
 ### Burghardtovo přírůstové hospodářství #anki
@@ -1056,6 +1114,7 @@ Jakostní metoda zaměřená na výbrané stromy. Již od mlazin negativné výb
 ^1651868357629
 
 ### Voglovo přírůstové hosp. #anki
+- Rakousko - SM a JD na nejlepších stanovištích
 - vystupňování péče o nejjakostnější stromy
 - soustředíme se na nejjakostnější stromy a od cca 60ti let jim vždy po 20ti letech odstraňujeme konkurenci
 - ponechává se vzrůlstavá  podúroveň
@@ -1079,8 +1138,342 @@ Jakostní metoda zaměřená na výbrané stromy. Již od mlazin negativné výb
 - rozčlenění porostů úzkými náseky kolmo na převládající větry a zalesnění zpevňujícími dřevinami - nejlépe JD
 - u dřevin na uvolněných okrajích nedojde k dalšímu zkracování korun, zvýsí se tloušťkový přírůst a tím se zlepší štíhlostní kvocient
 ![[Pasted image 20220506221742.png]]
+^1651953966127
+
 ### Závora #anki
 - ve středně starých porostech se provede se v širším pruhu (60 - 60 m) se provede naředění
 - po naředění se zvýší tloušťkový přístůst a tím se zvýší stabilita
 ![[Pasted image 20220506221829.png]]
 ^1651868357657
+
+# Obnova lesa #anki 
+- proces nahrazení stávajícího, zpravidla dospělého, porostu nastávající generací
+- východisko pro stanovení hospodářských tvarů a způsobů
+- iniciace struktury - tedy východisko pěstebního konceptu i stability
+^1651953966132
+
+## Obnova v přírodním lese #anki 
+- bez holin (jen po katastrofách)
+- malý a velký vývojový cyklus
+- mozaikovitá struktura fází a stádií
+- obnova jen v porostních mezerách po vypadnutí jednoho nebo několika stromů
+^1651953966137
+
+## Obnova v hospodářském lese #anki 
+- soubor pěstebních opatření směřujících k vytvoření nového lesa
+- Dělení dle
+	- způsobu vytváření
+	- prostorového uspořádání
+	- velikosti plochy
+	- doby trvání
+^1651953966142
+
+### Dle způsobu vytváření #anki
+- přirozená
+	- vegetativní
+	- generativní
+- umělá
+	- sadba/síje - generativní - převažuje
+	- vegetativní
+- kombinovaná
+^1651953966147
+
+### Klady a zápory typů obnov #anki
+- umělá
+	- klady
+		- záruka původu
+		- požadovaná dřeviná skladba
+		- nezávislá na semenných rocích
+		- kvalita - méně nákladná výchova
+	- zápory
+		- náklady
+		- nedostatky zalesňování - ztráty, deformace
+		- menší počty - omezená selekce při výchově
+		- nedostatky holé seče
+- přirozená
+	- klady
+		- kontinuita místní populace
+		- nižší náklady
+		- odrůstání na nejvhodnějších místech
+		- bez deformací kořenového systému
+		- možnost využití autoredukce a diferenciace
+	- zápory
+		- závislost na plodnosti a kvalitě mateřeského porostu
+		- nelze změnit druhovou skladbu a genetickou kvalitu
+		- možné vyšší náklady na péči
+^1651953966152
+
+## Přirozená obnova
+### Systematika pěstební péče #anki 
+- výběr porostů k PO
+- příprava porostů k PO
+- časová a prostorová organizace PO
+- volba obnovních sečí
+- péče o nárosty
+^1651953966157
+
+### Předpoklady úspěchu #anki 
+- Semenný rok
+- Přítomnost mateřskcý jedinců - počet, rozmístění, genetická kvalita
+- Vhodné půdní podmínky pro klíčení, vzcházení a přežívání
+- Vhodné klimatické podmínky pro vzcházení a přežívání
+^1651953966165
+
+### Fáze podmínek obnovy #anki 
+**Předčasná (juvenilní)** - podmínky pro klíčení, ale nikoliv pro vzchízení a přežívání - semenáčky odumírají
+**Optimální**
+**Promeškaná (senilní)** - zanikly podmínky pro klíčení a ujímání, ale jsou podmínky pro odrůstání
+Při maloplošných obnovch by měla být na obnovaných prvcách optimální fáze, na zbylých juvenilní. Zamezit vzniku senilní před obnovou a biologickým zajištěním nárostů.
+^1651953966174
+
+### Etapy #anki 
+- fruktifikace
+- opad a šíření diaspor
+- přezimování diaspor
+- Klíčení a odrůstání semenáčků
+^1651953966182
+
+
+## Obnovní způsoby #anki
+- dané zejména prostorovým uspořádáním a vznikem holiny
+- základní členění
+	- seč holá
+	- seč okrajová
+	- seč clonná
+	- seč kombinovaná
+- preciznější pojetí
+	- holé seče
+	- výstavkové seče
+	- maloplošné (kotlikové) holé seče
+	- clonné seče
+	- nepravidelně maloplošná clonná seč
+	- obnova ve výběrném lese
+^1651953966189
+
+### Seč holá
+#### Pruhová seč #anki
+- nejzákladnější a nejjednodušší
+- proti směru bořivých větrů
+- na sušších stanovištích pruhy V-Z a přiřazování z jihu
+- zákon 
+	- max. 1 ha a 2 porostní výšky (na exponovaných 1); přiřazování až po zajištění; lze přiřadit domýcení
+	- CHS 13 a 19 až 2 ha bez omezení šířky
+	- dopravně nepřístupné neexponované horské svahy delší než 250m až 2 ha
+^1651953966195
+
+#### Kulisová seč #anki 
+- ne SM, jen DB a BO
+- rozpracování pruhovými sečemi, mezi nimi kulisy 2-4x větší, než holiny
+- přiřazování po zajištění obnovy
+^1651953966199
+
+#### Proužková (Polanského) seč #anki 
+- zejména BK
+- úzké náseky 3-5 m
+- lanovky
+^1651953966204
+
+#### Šroglův kulisový holorub #anki 
+- úzké proužky 5-7(max 15)m
+- kulisy 30m
+- směr pruhů V-Z, přiřazování z J
+^1651953966210
+
+#### Nepravidelné seče #anki 
+- domycování porostů
+- nutné dodržení prostorového pořádku - spádné okraje, vyklizení hmoty
+^1651953966214
+
+#### Klínová seč #anki 
+- hrot proti větru
+- ekologické podmínky pro světlomilné i stínomilné dřeviny
+- v hrotu lze i přirozená obnova
+- postup - rozšiřování klínu
+^1651953966219
+
+#### Skupinová seč (kotlíková) #anki 
+- kotlíky do 0,3 ha
+- specifické mikroklima
+- rozdílné světelné podmínky
+- ideálně elipsa V-Z
+- rozšiřování kotlíků - kombinace s jinou sečí
+- zejména pro přeměny rozsáhlých jehl. porostů
+^1651953966224
+
+#### Výstavkové hospodářství #anki 
+- vhodné pro BO a MD pro doplnění nárostů
+- je třeba kvalitní plodící stromy
+- BO 30/ha, MD 15/ha
+- je třeba naplánovat následné vyklizení výstavků
+^1651953966232
+
+
+### Seč clonná
+- vhodné pro PO
+- obnova vzniká pod clonou mateřského porostu
+- velkoplošné i maloplošné
+
+#### Hartig-Hayerova velkoplošná seč #anki 
+- modelově 4 fáze (princip obecné platný pro clonné seče)
+	- přípravná  - selekce, příprava stanoviště, zakmenění 0,9 - 0,7
+		- při řádnch probírkách a uvolnění ji lze vynechat
+	- semenná - příznivé podmínky pro nálet a odrůstání, zakm. 0,7 - 0,5
+	- prosvětlovací/uvolňovací - podmínky pro odrůstání, zakm 0,4 - 0,2
+		- i několik za sebou
+	- domýtná - po biologickém zajištění
+- dle ekologických podmínek dřevin lze zkrátit na 3 nebo až 3 fáze
+- obnovní doba 15 - 25 let
+- nevýhody
+	- vzniká stejnověký porost
+	- problémy s vyklízením vytěžené hmoty
+	- při následném přísušku problém s doplněním
+^1651953966240
+
+#### Mayerova velkoplošná seč #anki
+- snaha odstranit nevýhody H-H seče
+- využívaná ve smíšených porostech
+- semenná fáze dle jednotlivých dřevin na dílčích plochách
+- vzniká skupinové smíšení
+^1651953966247
+
+#### Konšelova velkoplošná seč #anki
+- delší obnovní doba
+- pro smíšené porosty
+- rozčlenění oporostu linkami a rozlukami na kosčtverce s hrotem proti větrům - 0,5 - 1 ha
+- v kosočtvercích samostatné clonné postupy dle dominantích dřevin
+^1651953966255
+
+#### Pruhová seč #anki
+- fáze clonné obnovy v pruzích 
+![[Pasted image 20220507204615.png]]
+![[Pasted image 20220507204632.png]]
+![[Pasted image 20220507204640.png]]
+^1651953966262
+
+#### Skupinová Geyerova maloplošná seč #anki
+- obdoba skupinových (kotlíkových) holých sečí
+- obnovní prvky do 0,2 ha
+- spíše do strukturně bohatých porostů
+- v jednolitých pro vkládání nových prvků
+- pro rozšiřování kotlíků kombinace s jinými sečemi
+- vhodná pro rekonstrukce a přeměny druhové skladby
+^1651953966268
+
+#### Bádenská (švýcarská) seč #anki
+- velkoplošná
+- vhodná na přeměny na výběrný les
+- dlouhé obnovní doba - až celé obmýtí
+- výrazná plošná a časová diferencicace zásahu
+- přednostně se odstraňují mýtně zralé, netvárné a nepřirůstavé stromy bez ohledu na porušení zápoje
+- podporují se nejjakostnější jediny - dochází ke zušlchtění porostu
+^1651953966273
+
+### Kombinované seče  
+#### aditivní #anki
+- použití dvou nebo více sečí
+- např. holá seč a kotlíky
+- po dokončení obnovy jednou sečí pokračuji jiným způsobem
+	- např. kotlík a následné rozšiřování okrajovou sečí
+^1651953966278
+
+#### substitivní #anki
+- v průběhu jedné seče dojde k nahrazení seče jiným typem
+- příklad Eberhardova klínovitě rozestupná seč
+	- nejprve prosvětlení clonnou sečí
+	- následné klínovité rozšiřovaní okrajovou klínovou sečí
+^1651953966283
+
+# Hospodářské tvary
+## les vysoký - kmenovina #anki
+- vznik generativní cestou
+^1651953966289
+
+## les nízký - pařezina
+- vznik vegetativní cestou
+- krátké obmýtí
+- historicky hlavně palivo
+- pěstování
+	- cca do 10ti let vytřídění výmladků (šikmým řezem)
+
+## les střední - sdružený
+- vznik generativní i vegetativní cestou
+- více etáží
+	- v horní etáži převážně generativní obnova
+	- při převodech vždy v krátém obmýtí ponechávat nejkvalitnější jedince
+	- horní etáž ideálně cenné listnáče
+
+# Hospodářské způsoby #anki 
+- soubor opatrření ovlivňující strukturu porostu
+^1651953966294
+
+## výběrný #anki
+- atributy
+	- výběrný
+	- přírodě blížký
+	- biologicky oprávněný
+	- Dauerwald
+- trvalost je dána přírůstem (těžím to, co mi přiroste)
+- forma
+	- strom
+	- skupina stromů
+- principy
+	- trvalost lesa na každé prostorové jednotce
+	- trvalá možnost těžby mýtně zralých stromů na každé jednotce
+	- všechny vývojové fáze v každé jednotve
+	- upatnění zušlechťovacícho výběru
+	- primárně přirozená obnova
+- vhodné jsou dřeviny snášející stín, buk většinou skupinově
+- v zásadě je třeba stnoviště, kde roste SM, JD
+- pěstění probíhá zejména těžbou
+- výchova předmýtní většinou jednotlivý negativní a zdravotní výběr
+- nutná je hustá síť zpřístupnění
+- vhodné jsou šetrné způsoby vyklízení (kůň)
+- tloušťkové křivky a inventarizace přírůstu
+- zásoba nižší, ale trvalá zásoba (200 - 400 m3/ha)
+- pokud přestanu těžit, sníží se přírůst
+- klady
+	- kvalitnější sortimenty, lepší zpeněžení
+	- resilience
+- zápory
+	- větší náročnost na odbornou péči
+- v ČR v zásadě nejsou výběrné lesy, jen málo dlouhodobých převodů; legislativa jej umožňuje, ale "vše je proti němu"
+^1651953966299
+
+## pasečný #anki
+- atributy
+	- věkových tříd
+	- plantáž
+	- monokulturní
+	- holosečný
+- trvalost je dána pasekou a věkovými třídami
+- výběrné principy se uplatňují např. při probírkách - vybíráme to nejhorší nebo nejlepší
+^1651953966307
+
+### Hospodářské formy
+#### Podrostní #anki 
+- první seče výběrné - jen nejkvalitnější a zralí jedinci
+- výběrné principy uplatňujeme jen v určitém časovém intervalu (dle doby uplatňování se liší)
+^1651953966315
+
+#### Násečný #anki 
+- vytěžená plocha max v šíři porostní výšky
+- obnova vzniká na holině i pod porostem
+- vzniká vnitřní a vnější okraj
+- můžu obnovat světlomilné i stín snášející dřeviny současně
+- někdy je ale postup sečí tak rychlý, že stín snášející nevydrží v konkurenci světlomilných
+^1651953966323
+
+#### Holosečný #anki
+- vytěžená ploch větší než porostní výška
+	- problémy holiny - viz prezentace
+		- mineralizace půdy
+		- ochuzování - v prvních letech "pěstujeme" buřeň
+		- nevýběrná těžba - těžím vše, bez ohledu na dimenzi, kvalitu
+	- přednosti
+		- mechanizace
+		- přehlednost
+		- vhodný pro RRD z vegetativní obnovy - při stejných rozestupech je to homogenní porost - plantáž 
+		- i v CHS 13
+^1651953966331
+
+

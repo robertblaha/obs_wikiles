@@ -6,29 +6,29 @@
       {
         "id": "d4da71ba60ee1ffd",
         "type": "leaf",
-        "dimension": 70.47923322683705,
+        "dimension": 67.98722044728434,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mndl/PL/Příprava na zkoušku.md",
+            "file": "mndl/Technika - přehled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         },
-        "group": "e8ce1773d9835301"
+        "group": "9a3b92e940bf443e"
       },
       {
-        "id": "e3c769dc3d3bb9f2",
+        "id": "d2d887866d21f783",
         "type": "leaf",
-        "dimension": 29.520766773162936,
+        "dimension": 32.01277955271566,
         "state": {
           "type": "outline",
           "state": {
-            "file": "mndl/PL/Příprava na zkoušku.md"
+            "file": "mndl/Technika - přehled.md"
           }
         },
-        "group": "e8ce1773d9835301"
+        "group": "9a3b92e940bf443e"
       }
     ],
     "direction": "vertical"
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anki",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mndl/PL/Příprava na zkoušku.md",
+                "file": "mndl/Technika - přehled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mndl/PL/Příprava na zkoušku.md"
+                "file": "mndl/Technika - přehled.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mndl/PL/Příprava na zkoušku.md",
+                "file": "mndl/Technika - přehled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,15 +154,15 @@
   },
   "active": "d4da71ba60ee1ffd",
   "lastOpenFiles": [
-    "mndl/PL/Příprava na zkoušku.md",
-    "mndl/PL/Poznámky z přednášek.md",
+    "mndl/Technika - přehled.md",
+    "mndl/Pedologie - přehled.md",
     "mndl/Základní fakta o lesích v ČR.md",
-    "mndl/PL/Hospodářské soubory.md",
-    "mndl/ZAK/Přírodní lesní oblast.md",
-    "Test ANKI.md",
-    "Abies.md",
-    "mndl/ZOL/Tortricidae - zástupci.md",
-    "mndl/ZOL/Hmyzí škůdci listnatých dřevin.md",
-    "Legislativa v lesním hospodářství.md"
+    "mndl/Teorie ideálního lesa.md",
+    "mndl/PL/Příprava na zkoušku.md",
+    "202111082130 dešťová past.md",
+    "mndl/PL/Poznámky z přednášek.md",
+    "mndl/ZAK/Semenářská rajonizace.md",
+    "mndl/ZAK/Reprodukční materiál lesních dřevin.md",
+    "Acer pseudoplatanus.md"
   ]
 }

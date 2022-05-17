@@ -32,7 +32,7 @@ Citlivý na mráz (mrazové trhliny na starších kmenech). Pozdním mrazům uni
 **Dřevo** roztroušeně pórovité, bělové (náchylné na nepravé jádro)
 V našich lesích nepatrné zastoupení (vytěžen na dýhu), byť největší z javorů. 
 Výborná párátka.
-Dřevo využíváno na hudební nástroje (zejména s vlnkovanými letokruhy) a na dýhu (očkované a fládrované).
+Dřevo využíváno na hudební nástroje (zejména s vlnkovanými letokruhy) a na dýhu (očkaté a fládrované).
 Časný květ - ceněno včelaři.
 V zahradnictví hezké solitéry. ^307f80
 

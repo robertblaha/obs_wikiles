@@ -699,7 +699,7 @@ tags: []
 		- nepravidelné maloplošné clonné seče
 		- obnova v lese výběrném
 - trvání obnovy
-	- krátkodobá - do 630 let
+	- krátkodobá - do 30 let
 	- dlouhodobá 30+ let
 	- obnovní doba
 	- obnovní čísla
@@ -811,7 +811,7 @@ tags: []
 ## Dauerwald - trvale tvořivý les
 - způsob nakládání s lesem maximálně využívající jeho přírodní vlastnosti
 - stinné dřeviny - vývojová stádia nad sebou
-- slunné pdřeviny - vývojová stadia na vedlejších plochách
+- slunnépdřeviny - vývojová stadia na vedlejších plochách
 - Konšel
 
 
